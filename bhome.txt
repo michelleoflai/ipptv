@@ -189,7 +189,7 @@ CCTV17,https://tv.iill.top/migu/cctv17
 咪咕直播 𝟛𝟞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
 咪咕直播 𝟛𝟟「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
 咪咕直播 𝟛𝟠「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
-咪咕直播 𝟛𝟡𝟘「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
+咪咕直播 𝟛𝟡「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
 咪咕直播 𝟜𝟘「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011524/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
 咪咕直播 𝟜𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
 咪咕直播 𝟜𝟚「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
