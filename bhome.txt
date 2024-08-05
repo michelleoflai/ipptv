@@ -18,47 +18,6 @@ CCTV15,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 
-
-CCTV1,https://tv.iill.top/tv/cctv1
-CCTV2,https://tv.iill.top/tv/cctv2
-CCTV3,https://tv.iill.top/tv/cctv3
-CCTV4,https://tv.iill.top/tv/cctv4
-CCTV5,https://tv.iill.top/tv/cctv5
-CCTV5+,https://tv.iill.top/tv/cctv5p
-CCTV6,https://tv.iill.top/tv/cctv6
-CCTV7,https://tv.iill.top/tv/cctv7
-CCTV8,https://tv.iill.top/tv/cctv8
-CCTV9,https://tv.iill.top/tv/cctv9
-CCTV10,https://tv.iill.top/tv/cctv10
-CCTV11,https://tv.iill.top/tv/cctv11
-CCTV12,https://tv.iill.top/tv/cctv12
-CCTV13,https://tv.iill.top/tv/cctv13
-CCTV14,https://tv.iill.top/tv/cctv14
-CCTV15,https://tv.iill.top/tv/cctv15
-CCTV16,https://tv.iill.top/tv/cctv16
-CCTV17,https://tv.iill.top/tv/cctv17
-
-CCTV1,https://tv.iill.top/migu/cctv1
-CCTV2,https://tv.iill.top/migu/cctv2
-CCTV3,https://tv.iill.top/migu/cctv3
-CCTV4,https://tv.iill.top/migu/cctv4
-CCTV4美洲,https://tv.iill.top/migu/cctv4m
-CCTV4欧洲,https://tv.iill.top/migu/cctv4o
-CCTV5,https://tv.iill.top/migu/cctv5
-CCTV5+,https://tv.iill.top/migu/cctv5p
-CCTV6,https://tv.iill.top/migu/cctv6
-CCTV7,https://tv.iill.top/migu/cctv7
-CCTV8,https://tv.iill.top/migu/cctv8
-CCTV9,https://tv.iill.top/migu/cctv9
-CCTV10,https://tv.iill.top/migu/cctv10
-CCTV11,https://tv.iill.top/migu/cctv11
-CCTV12,https://tv.iill.top/migu/cctv12
-CCTV13,https://tv.iill.top/migu/cctv13
-CCTV14,https://tv.iill.top/migu/cctv14
-CCTV15,https://tv.iill.top/migu/cctv15
-CCTV17,https://tv.iill.top/migu/cctv17
-
-
 卫视,#genre#
 湖南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
@@ -86,34 +45,20 @@ CCTV17,https://tv.iill.top/migu/cctv17
 甘肃卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
 青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
 
-湖南卫视,https://tv.iill.top/tv/hnws
-江苏卫视,https://tv.iill.top/tv/jsws
-东方卫视,https://tv.iill.top/tv/dfws
-北京卫视,https://tv.iill.top/tv/bjws
-湖北卫视,https://tv.iill.top/tv/hbws
-
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-广东卫视,https://tv.iill.top/migu/gdws
-江苏卫视,https://tv.iill.top/migu/jsws
-陕西卫视,https://tv.iill.top/migu/sxws
-江西卫视,https://tv.iill.top/migu/jxws
-海峡卫视,https://tv.iill.top/migu/hxws
-湖北卫视,https://tv.iill.top/migu/hubws
-
 
 咪咕,#genre#
-咪咕直播 𝟙「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕直播 𝟚「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕睛彩 𝟙「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕睛彩 𝟚「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕直播 𝟛「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕直播 𝟜「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-咪咕直播 𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+咪咕睛彩 𝟜「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+咪咕睛彩 𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 咪咕直播 𝟚「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
-咪咕直播 𝟛「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+咪咕睛彩 𝟛「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
 咪咕直播 𝟜「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
 咪咕直播 𝟝「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
 咪咕直播 𝟞「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
 咪咕直播 𝟟「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
-咪咕直播 𝟠「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+咪咕睛彩 𝟠「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
 咪咕直播 𝟡「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
 咪咕直播 𝟙𝟘「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
 咪咕直播 𝟙𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
@@ -197,149 +142,6 @@ CCTV17,https://tv.iill.top/migu/cctv17
 咪咕直播 𝟜𝟜「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 咪咕直播 𝟜𝟝「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-Olympic,#genre#
-「皮划艇激流回旋」00:00 🇨🇳男、女极限皮艇计时赛&复活赛 陈文博,https://tv.iill.top/OG/1
-「皮划艇激流回旋」00:00 🇨🇳男、女极限皮艇计时赛&复活赛 清流,https://tv.iill.top/OG/2
-「手球」00:50 女子预赛A组：挪威30-18德国,https://tv.iill.top/OG/3
-「手球」00:50 女子预赛A组：挪威30-18德国 原声,https://tv.iill.top/OG/4
-「足球」00:50 女子1/4决赛：加拿大 VS 德国 鹿中原 解说,https://tv.iill.top/OG/5
-「足球」00:50 女子1/4决赛：加拿大 VS 德国 清流,https://tv.iill.top/OG/6
-「击剑」00:55 🏅女子团体佩剑决赛 蓝色剑道（远程解说）,https://tv.iill.top/OG/7
-「击剑」00:55 🏅女子团体佩剑决赛 原声,https://tv.iill.top/OG/8
-「田径」00:55 🏅女子100米决赛等多项决赛 解说,https://tv.iill.top/OG/9
-「田径」00:55 🏅女子100米决赛等多项决赛 （远程粤语）（陈凯冬）,https://tv.iill.top/OG/10
-「田径」00:55 🏅女子100米决赛等多项决赛 撑竿跳A场地、铅球A场地,https://tv.iill.top/OG/11
-「田径」00:55 🏅女子100米决赛等多项决赛 跳远A场地、三级跳A场地,https://tv.iill.top/OG/12
-「水球」01:20 男子预赛B组：塞尔维亚15-8法国 叶蕾 解说,https://tv.iill.top/OG/13
-「水球」01:20 男子预赛B组：塞尔维亚15-8法国 清流DX44,https://tv.iill.top/OG/14
-「曲棍球」01:35 女子分组循环赛A组：德国 VS 比利时 奉俊良 解说,https://tv.iill.top/OG/15
-「曲棍球」01:35 女子分组循环赛A组：德国 VS 比利时 2024奥运会：女子A组1号球场德国VS比利时（远程高校）（avs3）,https://tv.iill.top/OG/16
-「曲棍球」01:35 女子分组循环赛A组：德国 VS 比利时 清流DX40,https://tv.iill.top/OG/17
-「拳击」01:55 🇨🇳女子60公斤级等多项半决赛、1/4决赛 王琰博、徐灿,https://tv.iill.top/OG/18
-「拳击」01:55 🇨🇳女子60公斤级等多项半决赛、1/4决赛 CCTV16,https://tv.iill.top/OG/19
-「拳击」01:55 🇨🇳女子60公斤级等多项半决赛、1/4决赛 清流,https://tv.iill.top/OG/20
-「游泳」02:00 🏅🇨🇳男子100蝶、女子200混等多项决赛 2024奥运会：第8比赛日男子女子多项决赛凌晨场,https://tv.iill.top/OG/21
-「游泳」02:00 🏅🇨🇳男子100蝶、女子200混等多项决赛 柳亚鹏、吴鹏 解说,https://tv.iill.top/OG/22
-「游泳」02:00 🏅🇨🇳男子100蝶、女子200混等多项决赛 CCTV5,https://tv.iill.top/OG/23
-「游泳」02:00 🏅🇨🇳男子100蝶、女子200混等多项决赛 2024奥运会：第8比赛日多项半决赛、决赛（avs3）,https://tv.iill.top/OG/24
-「篮球」02:50 男子小组赛C组：塞尔维亚 VS 南苏丹,https://tv.iill.top/OG/25
-「篮球」02:50 男子小组赛C组：塞尔维亚 VS 南苏丹 原声,https://tv.iill.top/OG/26
-「手球」02:50 女子预赛A组：丹麦28-20韩国,https://tv.iill.top/OG/27
-「手球」02:50 女子预赛A组：丹麦28-20韩国 原声,https://tv.iill.top/OG/28
-「排球」02:50 男子预赛A组：加拿大2-3塞尔维亚 樊宇良,https://tv.iill.top/OG/29
-「排球」02:50 男子预赛A组：加拿大2-3塞尔维亚 清流,https://tv.iill.top/OG/30
-「足球」02:50 女子1/4决赛：法国 VS 巴西 刘腾 解说,https://tv.iill.top/OG/31
-「足球」02:50 女子1/4决赛：法国 VS 巴西 2024奥运会： 女子1/4决赛 法国VS巴西,https://tv.iill.top/OG/32
-「沙滩排球」02:50 幸运失败者赛 朱羿卫,https://tv.iill.top/OG/33
-「沙滩排球」02:50 幸运失败者赛 清流,https://tv.iill.top/OG/34
-「水球」02:55 男子预赛A组：意大利18-7罗马尼亚 叶蕾 解说,https://tv.iill.top/OG/35
-「水球」02:55 男子预赛A组：意大利18-7罗马尼亚 清流DX44,https://tv.iill.top/OG/36
-「三人篮球」03:25 🇨🇳女子晋级附加赛 中国女篮不敌美国,https://tv.iill.top/OG/37
-「三人篮球」03:25 🇨🇳女子晋级附加赛 中国女篮不敌美国 原声,https://tv.iill.top/OG/38
-「羽毛球」14:00 🇨🇳男女单半决赛 何冰娇冲决赛 解说,https://tv.iill.top/OG/39
-「羽毛球」14:00 🇨🇳男女单半决赛 何冰娇冲决赛 原声,https://tv.iill.top/OG/40
-「手球」14:50 男子预赛A组：瑞典 VS 日本 2024奥运会：男子预赛A组瑞典VS日本（远程高校）（杨淏淞）,https://tv.iill.top/OG/41
-「手球」14:50 男子预赛A组：瑞典 VS 日本 赛场原声,https://tv.iill.top/OG/42
-「排球」14:50 女子预赛C组：意大利 VS 土耳其 景荣,https://tv.iill.top/OG/43
-「排球」14:50 女子预赛C组：意大利 VS 土耳其 清流,https://tv.iill.top/OG/44
-「高尔夫」14:50 🏅🇨🇳男子第4回合 袁也淳、窦泽成出战,https://tv.iill.top/OG/45
-「高尔夫」14:50 🏅🇨🇳男子第4回合 袁也淳、窦泽成出战 赛场原声,https://tv.iill.top/OG/46
-「沙滩排球」14:50 1/8决赛 朱羿卫,https://tv.iill.top/OG/47
-「沙滩排球」14:50 1/8决赛 崔佳,https://tv.iill.top/OG/48
-「沙滩排球」14:50 1/8决赛 陈诺亚,https://tv.iill.top/OG/49
-「沙滩排球」14:50 1/8决赛 乔迁,https://tv.iill.top/OG/50
-「沙滩排球」14:50 1/8决赛 清流,https://tv.iill.top/OG/51
-「射箭」15:25 🇨🇳男子个人1/8淘汰赛 周澈 解说,https://tv.iill.top/OG/52
-「射箭」15:25 🇨🇳男子个人1/8淘汰赛 清流DX14,https://tv.iill.top/OG/53
-「曲棍球」15:50 男子1/4决赛：印度 VS 英国 格日勒图,https://tv.iill.top/OG/54
-「曲棍球」15:50 男子1/4决赛：印度 VS 英国 清流DX40,https://tv.iill.top/OG/55
-「田径」15:50 🇨🇳男子110米跨栏第1轮等多项比赛 解说,https://tv.iill.top/OG/56
-「田径」15:50 🇨🇳男子110米跨栏第1轮等多项比赛 女子链球资格赛-A组,https://tv.iill.top/OG/57
-「田径」15:50 🇨🇳男子110米跨栏第1轮等多项比赛 男子跳远资格赛1,https://tv.iill.top/OG/58
-「田径」15:50 🇨🇳男子110米跨栏第1轮等多项比赛 男子跳远资格赛2,https://tv.iill.top/OG/59
-「田径」15:50 🇨🇳男子110米跨栏第1轮等多项比赛 AVS3,https://tv.iill.top/OG/60
-「马术」15:55 🏅个人盛装舞步音乐自由演绎大奖赛 尹少坤、怀佩炘,https://tv.iill.top/OG/61
-「马术」15:55 🏅个人盛装舞步音乐自由演绎大奖赛 清流,https://tv.iill.top/OG/62
-「篮球」16:50 女子小组赛C组：日本 VS 比利时 （远程解说）（姜帆）,https://tv.iill.top/OG/63
-「篮球」16:50 女子小组赛C组：日本 VS 比利时 原声,https://tv.iill.top/OG/64
-「手球」16:50 男子预赛B组：埃及 VS 阿根廷,https://tv.iill.top/OG/65
-「手球」16:50 男子预赛B组：埃及 VS 阿根廷 赛场原声,https://tv.iill.top/OG/66
-「拳击」16:55 🇨🇳女子54公斤级等多项半决赛、1/4决赛 姚翔,https://tv.iill.top/OG/67
-「拳击」16:55 🇨🇳女子54公斤级等多项半决赛、1/4决赛 央五,https://tv.iill.top/OG/68
-「拳击」16:55 🇨🇳女子54公斤级等多项半决赛、1/4决赛 张家驹,https://tv.iill.top/OG/69
-「拳击」16:55 🇨🇳女子54公斤级等多项半决赛、1/4决赛 清流,https://tv.iill.top/OG/70
-「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 黄色剑道（中国队）（刘凡绫）,https://tv.iill.top/OG/71
-「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 蓝色剑道（谢钰杰）,https://tv.iill.top/OG/72
-「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 绿色剑道（韩健）,https://tv.iill.top/OG/73
-「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 红色剑道（底逸凡）,https://tv.iill.top/OG/74
-「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 原声-黄色剑道,https://tv.iill.top/OG/75
-「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 原声-蓝色剑道,https://tv.iill.top/OG/76
-「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 原声-绿色剑道,https://tv.iill.top/OG/77
-「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 原声-红色剑道,https://tv.iill.top/OG/78
-「乒乓球」17:45 🏅🇨🇳男单铜牌赛、金牌赛：樊振东冲击大满贯 周冠达、陈玘,https://tv.iill.top/OG/79
-「乒乓球」17:45 🏅🇨🇳男单铜牌赛、金牌赛：樊振东冲击大满贯 《AI乒中国》第九期（程靖淇、马特） AI乒中国,https://tv.iill.top/OG/80
-「乒乓球」17:45 🏅🇨🇳男单铜牌赛、金牌赛：樊振东冲击大满贯 央五,https://tv.iill.top/OG/81
-「乒乓球」17:45 🏅🇨🇳男单铜牌赛、金牌赛：樊振东冲击大满贯 AVS3,https://tv.iill.top/OG/82
-「乒乓球」17:45 🏅🇨🇳男单铜牌赛、金牌赛：樊振东冲击大满贯 赛场原声,https://tv.iill.top/OG/83
-「网球」17:55 🏅男单决赛、女双决赛 林苑 解说,https://tv.iill.top/OG/84
-「网球」17:55 🏅男单决赛、女双决赛 刘钟鸣 解说,https://tv.iill.top/OG/85
-「网球」17:55 🏅男单决赛、女双决赛 李宁 解说,https://tv.iill.top/OG/86
-「网球」17:55 🏅男单决赛、女双决赛 清流DX25,https://tv.iill.top/OG/87
-「帆船」18:00 🇨🇳第8比赛日 水翼风筝板首次登场,https://tv.iill.top/OG/88
-「帆船」18:00 🇨🇳第8比赛日 水翼风筝板首次登场 赛场原声,https://tv.iill.top/OG/89
-「曲棍球」18:20 男子1/4决赛：比利时 VS 西班牙 曲可乐,https://tv.iill.top/OG/90
-「曲棍球」18:20 男子1/4决赛：比利时 VS 西班牙 清流DX40,https://tv.iill.top/OG/91
-「排球」18:50 女子预赛A组：法国 VS 美国 解说：张歌 张歌,https://tv.iill.top/OG/92
-「排球」18:50 女子预赛A组：法国 VS 美国 CCTV5+,https://tv.iill.top/OG/93
-「排球」18:50 女子预赛A组：法国 VS 美国 清流,https://tv.iill.top/OG/94
-「射箭」18:55 🏅男子个人1/4决赛、半决赛、铜牌赛、金牌赛 周澈 解说,https://tv.iill.top/OG/95
-「射箭」18:55 🏅男子个人1/4决赛、半决赛、铜牌赛、金牌赛 清流DX14,https://tv.iill.top/OG/96
-「篮球」19:20 女子小组赛B组：加拿大 VS 尼日利亚,https://tv.iill.top/OG/97
-「篮球」19:20 女子小组赛B组：加拿大 VS 尼日利亚 原声,https://tv.iill.top/OG/98
-「手球」19:50 男子预赛A组：德国 VS 斯洛文尼亚,https://tv.iill.top/OG/99
-「手球」19:50 男子预赛A组：德国 VS 斯洛文尼亚 赛场原声,https://tv.iill.top/OG/100
-「公路自行车」19:50 🏅🇨🇳女子公路赛 李陶  萧深,https://tv.iill.top/OG/101
-「公路自行车」19:50 🏅🇨🇳女子公路赛 清流DX13,https://tv.iill.top/OG/102
-「水球」19:50 女子预赛A组：匈牙利 VS 澳大利亚 汪粤,https://tv.iill.top/OG/103
-「水球」19:50 女子预赛A组：匈牙利 VS 澳大利亚 清流DX44,https://tv.iill.top/OG/104
-「竞技体操」20:30 🏅🇨🇳男子吊环、女子高低杠、男子跳马决赛 钟宇峰、刘璇,https://tv.iill.top/OG/105
-「竞技体操」20:30 🏅🇨🇳男子吊环、女子高低杠、男子跳马决赛 郭大顺,https://tv.iill.top/OG/106
-「竞技体操」20:30 🏅🇨🇳男子吊环、女子高低杠、男子跳马决赛 CCTV5+,https://tv.iill.top/OG/107
-「竞技体操」20:30 🏅🇨🇳男子吊环、女子高低杠、男子跳马决赛 清流,https://tv.iill.top/OG/108
-「羽毛球」20:30 🏅🇨🇳男双铜牌赛、金牌赛 AVS3,https://tv.iill.top/OG/109
-「羽毛球」20:30 🏅🇨🇳男双铜牌赛、金牌赛 原声,https://tv.iill.top/OG/110
-「射击」21:20 🏅女子双向飞碟决赛 解说,https://tv.iill.top/OG/111
-「射击」21:20 🏅女子双向飞碟决赛 原声,https://tv.iill.top/OG/112
-「皮划艇激流回旋」21:25 🇨🇳男、女极限皮艇预赛 陈文博,https://tv.iill.top/OG/113
-「皮划艇激流回旋」21:25 🇨🇳男、女极限皮艇预赛 清流,https://tv.iill.top/OG/114
-「水球」21:25 女子预赛B组：意大利 VS 西班牙 汪粤,https://tv.iill.top/OG/115
-「水球」21:25 女子预赛B组：意大利 VS 西班牙 清流DX44,https://tv.iill.top/OG/116
-「手球」21:50 男子预赛B组：匈牙利 VS 法国,https://tv.iill.top/OG/117
-「手球」21:50 男子预赛B组：匈牙利 VS 法国 赛场原声,https://tv.iill.top/OG/118
-「排球」22:30 🇨🇳女子预赛A组：中国 VS 塞尔维亚 沈群淇、赵蕊蕊,https://tv.iill.top/OG/119
-「排球」22:30 🇨🇳女子预赛A组：中国 VS 塞尔维亚 央五,https://tv.iill.top/OG/120
-「排球」22:30 🇨🇳女子预赛A组：中国 VS 塞尔维亚 清流,https://tv.iill.top/OG/121
-「篮球」23:05 女子小组赛C组：德国 VS 美国 （远程解说）（刘圳展）,https://tv.iill.top/OG/122
-「篮球」23:05 女子小组赛C组：德国 VS 美国 原声,https://tv.iill.top/OG/123
-「曲棍球」23:20 男子1/4决赛：荷兰 VS 澳大利亚 柳昱帆,https://tv.iill.top/OG/124
-「曲棍球」23:20 男子1/4决赛：荷兰 VS 澳大利亚 清流DX40,https://tv.iill.top/OG/125
-「三人篮球」23:25 🇨🇳分组循环赛 中国男篮战东道主 解说,https://tv.iill.top/OG/126
-「三人篮球」23:25 🇨🇳分组循环赛 中国男篮战东道主 原声,https://tv.iill.top/OG/127
-「CBA」10:55 夏季联赛 天津先行者vs福建浔兴股份 吕程,https://tv.iill.top/Migu/1
-「CBA」10:55 清流播出,https://tv.iill.top/Migu/2
-「CBA」13:20 夏季联赛 北京北汽vs南京头排苏酒 王冠证,https://tv.iill.top/Migu/3
-「CBA」13:20 2024赛季夏季联赛（青岛）5、6名排位赛：北京vs南京,https://tv.iill.top/Migu/4
-「CBA」17:20 夏季联赛 江苏肯帝亚vs上海久事 吴博文,https://tv.iill.top/Migu/5
-「CBA」17:20 2024赛季夏季联赛（青岛）3、4名排位赛：江苏vs上海,https://tv.iill.top/Migu/6
-「中超」19:00 联赛 北京国安vs上海申花 解说,https://tv.iill.top/Migu/7
-「中超」19:00 联赛 北京国安vs上海申花 沪语解说,https://tv.iill.top/Migu/8
-「中超」19:00 联赛 北京国安vs上海申花 赛场原声,https://tv.iill.top/Migu/9
-「中超」19:45 联赛 南通支云vs河南俱乐部酒祖杜康 解说,https://tv.iill.top/Migu/10
-「中超」19:45 联赛 南通支云vs河南俱乐部酒祖杜康 赛场原声,https://tv.iill.top/Migu/11
-「CBA」19:50 夏季联赛 青岛国信水产vs山西汾酒 石楷文,https://tv.iill.top/Migu/12
-「CBA」19:50 2024赛季夏季联赛（青岛）决赛：青岛vs山西,https://tv.iill.top/Migu/13
-
-
 JAPEN,#genre#
 #Tokyo
 NHK G,https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8
@@ -391,50 +193,7 @@ BS Japan Movie Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist
 Disney Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 Fishing Vision,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 BS Shochiku Tokyu,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
-#CS
-AT-X,https://vnpt.nekocdn.xyz/9113e313-5c50-41dd-a4a0-fda78b64580f.m3u8
-AT-X (neetball),https://neetball.net/live/neet3.m3u8
-MTV,https://vnpt.nekocdn.xyz/4b5031a9-04eb-4320-a708-bad2ac658205.m3u8
-Space Shower TV (vthanh),https://vnpt.nekocdn.xyz/bb127794-ed6f-44cb-9a77-3f1e63c0dbd9,m3u8
-Jidaigeki Senmon,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-Toei Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-Eisei Gekijo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-Family Gekijyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-Movie Plus,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-Home Drama Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-Tabi Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-Fuji TV Next,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
-Sky A,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-GAORA SPORTS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-Golf Network,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-Nittele G+,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-Mondo TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
-Channel Ginga,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-Space Shower TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-Music Japan TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-Kayo Pops,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-MTV (2),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-LaLa TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-Takarazuka Sky Stage,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
-Kids Station TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-Cartoon Network,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-Disney Junior,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-Discovery Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-National Geographic,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-History Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
-CNNj,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-QVC,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#Test/Terrestrial
-NHK G (h264/720/aac/test),http://r3jx.djtmewibu.com/nhkg/index.m3u8
-tvk (h264/720/aac/test),http://r3jx.djtmewibu.com/tvk/index.m3u8
-Teletama (h264/720/aac/test),http://r3jx.djtmewibu.com/tvs/index.m3u8
-TOKYO MX1 (h264/720/aac/test),http://r3jx.djtmewibu.com/mx1/index.m3u8
-TOKYO MX2 (h264/540/aac/test),http://r3jx.djtmewibu.com/mx2/index.m3u8
-tss (h264/1080/aac/test),http://r3jx.djtmewibu.com/tss/index.m3u8
-#Test/BS
-BS11 (h264/720/aac/test),http://r3jx.djtmewibu.com/bs11/index.m3u8
-#Test/CS
-AT-X (h264/720/aac/test),http://r3jx.djtmewibu.com/at-x/index.m3u8
+
 
 SPORTs,#genre#
 TNT Sport 1,https://tv.iill.top/beesport/TNT_Sports_1
@@ -582,29 +341,6 @@ FOX News,https://tv.iill.top/beesport/FOX_NEWS_Live_TV
 精品大剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 精品记录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 
-地方,#genre#
-广东珠江,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-东方财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-东方影视,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-上海都市,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-上海新闻综合,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-上海外语,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-黑龙江都市,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-黑龙江农业科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-黑龙江少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-黑龙江文体,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-黑龙江新闻法治,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-黑龙江影视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-HRB新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-齐齐哈尔新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-齐齐哈尔经济法治,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
-佳木斯新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-大庆新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-双鸭山综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
-鹤岗新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
-中国天气,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000057/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000057&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-
 其他,#genre#
 全民热练,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 JJ斗地主赛事「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -627,405 +363,29 @@ BesTV 𝟝「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002
 BesTV 𝟞「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 BesTV 𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-其他,#genre#
-上海纪实人文,https://tv.iill.top/migu/shjs
-七彩戏剧,https://tv.iill.top/migu/qcxj
-上海东方影视,https://tv.iill.top/migu/shys
-CHC家庭影院,https://tv.iill.top/migu/jtyy
-欢笑剧场,https://tv.iill.top/migu/hxjc
-劲爆体育,https://tv.iill.top/migu/jbty
-魅力足球,https://tv.iill.top/migu/mlzq
-游戏风云,https://tv.iill.top/migu/yxfy
-四海钓鱼,https://tv.iill.top/migu/shdy
-经典香港电影,https://tv.iill.top/migu/xgdy
-新片放映厅,https://tv.iill.top/migu/xpdy
-英雄联盟赛事,https://tv.iill.top/migu/lol
-咪咕24小时体育,https://tv.iill.top/migu/mgty
-掼蛋精英赛,https://tv.iill.top/migu/dds
-NBA经典,https://tv.iill.top/migu/nba
-CBA经典,https://tv.iill.top/migu/cba
-五大联赛经典,https://tv.iill.top/migu/lsjd
-风云足球,https://tv.iill.top/migu/fyzq
-UFC格斗精选,https://tv.iill.top/migu/ufc
-全民乒乓,https://tv.iill.top/migu/qmpp
-CCTV4,https://tv.iill.top/youtube/LiveNow24H
-鳳凰衛視資訊,https://tv.iill.top/youtube/phoenixtvhk
-中天新闻,https://tv.iill.top/youtube/CtiNews
-中天新闻,https://tv.iill.top/youtube/WPfPjbOLNfE
-公视新闻,https://tv.iill.top/youtube/PNNPTS
-民视新闻,https://tv.iill.top/youtube/FTV_News
-台视新闻,https://tv.iill.top/youtube/TTV_NEWS
-中视新闻,https://tv.iill.top/youtube/twctvnews
-华视新闻,https://tv.iill.top/youtube/CtsTw
-TVBSNEWS,https://tv.iill.top/youtube/TVBSNEWS01
-TVBS选新闻,https://tv.iill.top/youtube/TVBSNEWS02
-三立新闻,https://tv.iill.top/youtube/setnews
-三立iNEWS,https://tv.iill.top/youtube/setinews
-东森新闻,https://tv.iill.top/youtube/newsebc
-东森财经新闻,https://tv.iill.top/youtube/57ETFN
-寰宇新闻,https://tv.iill.top/youtube/globalnewstw
-寰宇财经新闻,https://tv.iill.top/youtube/globlemoney
-镜新闻,https://tv.iill.top/youtube/mnews-tw
-新聞大白話,https://tv.iill.top/youtube/tvbstalk
-倪珍24小時播新聞,https://tv.iill.top/youtube/NOWnews-sp2di
-BNE TV「新西蘭」,https://tv.iill.top/youtube/BNETV28
-CHANNEL33「新西蘭」,https://tv.iill.top/youtube/CHANNEL33NewZealand
-8 world,https://tv.iill.top/youtube/8worldSG
-CNA,https://tv.iill.top/youtube/channelnewsasia
-ABC NEWS,https://tv.iill.top/youtube/ABCNews
-ABC NEWS (Australia),https://tv.iill.top/youtube/abcnewsaustralia
-FRANCE 24,https://tv.iill.top/youtube/France24_en
-DW NEWS,https://tv.iill.top/youtube/dwnews
-LiveNOW from FOX,https://tv.iill.top/youtube/livenowfox
-Al Jazeera English,https://tv.iill.top/youtube/aljazeeraenglish
-AlJazeera Arabic,https://tv.iill.top/youtube/aljazeera
-USA TODAY,https://tv.iill.top/youtube/USATODAY
-ANN NEWS,https://tv.iill.top/youtube/ANNnewsCH
-NHK WORLD,https://tv.iill.top/youtube/NHKWORLDJAPAN
-TBS NEWS,https://tv.iill.top/youtube/tbsnewsdig
-大陸尋奇,https://tv.iill.top/youtube/ctvchinatv
-中天亞洲台,https://tv.iill.top/youtube/CtiAsia
-大愛一台,https://tv.iill.top/youtube/DaAiVideo
-中視經典綜藝,https://tv.iill.top/youtube/ctvent_classic
-華視綜藝頻道,https://tv.iill.top/youtube/CTSSHOW
-民視戲劇館,https://tv.iill.top/youtube/FTVDRAMA
-綜藝大熱門,https://tv.iill.top/youtube/HotDoorNight
-綜藝大平台,https://tv.iill.top/youtube/samentshow
-飢餓遊戲,https://tv.iill.top/youtube/HungerGames123
-豬哥會社,https://tv.iill.top/youtube/FTV_ZhuGeClub
-中天電視,https://tv.iill.top/youtube/CtiTv
-國家地理,https://tv.iill.top/youtube/NatGeo
-國家地理野生動物,https://tv.iill.top/youtube/NatGeoWild
-國家地理兒童頻道,https://tv.iill.top/youtube/natgeokids
-動物世界¹,https://tv.iill.top/youtube/4krelaxing-wildanimals
-森林角落,https://tv.iill.top/youtube/loveyourself.alexander
-森林角落¹,https://tv.iill.top/youtube/relaxing-mp8701
-森林角落²,https://tv.iill.top/youtube/BirderKing
-海洋世界,https://tv.iill.top/youtube/R34ot1LETK0
-海洋世界¹,https://tv.iill.top/youtube/MontereyBayAquarium
-海洋世界²,https://tv.iill.top/youtube/healingsoul6795
-放松自然,https://tv.iill.top/youtube/CHRISTIAN_Piano650
-放松自然¹,https://tv.iill.top/youtube/animals-world
-放松自然²,https://tv.iill.top/youtube/timjanis
-放松自然³,https://tv.iill.top/youtube/OCBRelaxMusic
-風景放松,https://tv.iill.top/youtube/landscapefilm.4k
-風景放松¹,https://tv.iill.top/youtube/12KScenicRelaxation
-風景放松²,https://tv.iill.top/youtube/ScenicRelaxation8K
-風景放松³,https://tv.iill.top/youtube/juggalouno420
-風景放松⁴,https://tv.iill.top/youtube/HealingMelodies66
-我們的星球,https://tv.iill.top/youtube/RelaxingMelody88
-我們的星球¹,https://tv.iill.top/youtube/ourplanet4k
-我們的星球²,https://tv.iill.top/youtube/toprelaxchannel
-我們的星球³,https://tv.iill.top/youtube/8knaturefilm1620
-我們的星球⁴,https://tv.iill.top/youtube/4KScenicRelaxationFilms
-兒歌童謠,https://tv.iill.top/youtube/kafoomusic
-粵·音樂,https://tv.iill.top/youtube/Cantopopgreatesthits8090s
-粵·音樂¹,https://tv.iill.top/youtube/warnermusichk
-粵·音樂²,https://tv.iill.top/youtube/hongkongmusic8090s
-粵·音樂³,https://tv.iill.top/youtube/Hongkongclassichits
-中·音樂,https://tv.iill.top/youtube/chinesesong2023
-中·音樂¹,https://tv.iill.top/youtube/KKBOX2023
-中·音樂²,https://tv.iill.top/youtube/ChinesePopHits_KKBOX
-英·音樂,https://tv.iill.top/youtube/EnglishSongCollection
-英·音樂¹,https://tv.iill.top/youtube/TheGoodLiferadio
-日·音樂,https://tv.iill.top/youtube/lhand1
-日·音樂¹,https://tv.iill.top/youtube/jpopmusichits
-韓·音樂,https://tv.iill.top/youtube/Musicforyou_Lionmedia
-韓·音樂¹,https://tv.iill.top/youtube/luvbeekr
-貓·音樂,https://tv.iill.top/youtube/catslovemusic
-貓·音樂¹,https://tv.iill.top/youtube/SleepyCats
-狗·音樂,https://tv.iill.top/youtube/Sleepy_Dogs
-永恒鋼琴,https://tv.iill.top/youtube/BGMTotoroStudio
-永恒鋼琴¹,https://tv.iill.top/youtube/PIANOMUSIC7584
-永恒鋼琴²,https://tv.iill.top/youtube/Goodpianomusic-6886
-永恒鋼琴³,https://tv.iill.top/youtube/Ghibli-Relaxing9490
-浪漫吉他,https://tv.iill.top/youtube/OceanicGuitar6868
-浪漫吉他¹,https://tv.iill.top/youtube/romanticguitar.no1
-浪漫吉他²,https://tv.iill.top/youtube/GuitarInstrumentalMusic102
-浪漫吉他³,https://tv.iill.top/youtube/instrumentalguitar_99
-浪漫吉他⁴,https://tv.iill.top/youtube/ClassicalGuitar384
-雨與夜,https://tv.iill.top/youtube/loficityvibes95
-雨與夜¹,https://tv.iill.top/youtube/Pluviophile_Lofi
-BGM,https://tv.iill.top/youtube/j-popmusicbgmchannel
-BGM¹,https://tv.iill.top/youtube/bgmchannelbgm
-BGM²,https://tv.iill.top/youtube/cafemusicbgmchannel
-BGM³,https://tv.iill.top/youtube/lofigeek
-老古董,https://tv.iill.top/youtube/NemosDreamscapes
-海浪·聲,https://tv.iill.top/youtube/naturaleza-viva
-時裝藝術表演,https://tv.iill.top/youtube/305miamivisuals
-時裝藝術表演¹,https://tv.iill.top/youtube/NYFT
-時裝藝術表演²,https://tv.iill.top/youtube/shiftswim
-時裝藝術表演³,https://tv.iill.top/youtube/SPLASHme
-THE K-POP,https://tv.iill.top/youtube/thekpop
-SBS Running Man,https://tv.iill.top/youtube/SBSRunningMan
-小豬佩奇,https://tv.iill.top/youtube/PeppaPigChineseOfficial
-芝麻街,https://tv.iill.top/youtube/SesameStreet
-汪汪隊,https://tv.iill.top/youtube/PAWPatrolOfficial
-陽光兔,https://tv.iill.top/youtube/SunnyBunnies
-幼兒動物園,https://tv.iill.top/youtube/ToddlerZoo
-童謠與卡通,https://tv.iill.top/youtube/BillionSurpriseToys
-兒童動畫,https://tv.iill.top/youtube/KedooToonsTV
-兒童動畫¹,https://tv.iill.top/youtube/OldMacDonaldsFarm_MoonbugKids
-123 GO,https://tv.iill.top/youtube/123goseries
-貓·部落,https://tv.iill.top/youtube/miaou-cat
-鼠·部落,https://tv.iill.top/youtube/MohumohuPetCafe
-綠聲·旅遊,https://tv.iill.top/youtube/GreenSoundOfficial
+KPOP,#genre#
+kpop1,http://live.iill.top/douyu.php?id=113158
+kpop2,http://live.iill.top/douyu.php?id=40471
+kpop3,http://live.iill.top/douyu.php?id=8189873
+kpop4,http://live.iill.top/douyu.php?id=8266799
 
-粤港澳台,#genre#
-广东卫视,https://tv.iill.top/tv/gdws
-广东珠江,https://tv.iill.top/tv/gdzj
-大湾区卫视,https://tv.iill.top/tv/dwqws
-星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB PLUS,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-HOY76,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-HOY77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-HOY78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-莲花卫视,https://tv.iill.top/mo/lhws
-澳门Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-澳视葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-澳视澳门,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-澳门体育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-澳门综艺,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-鳳凰中文,https://tv.iill.top/tv/fhzw
-鳳凰資訊,https://tv.iill.top/tv/fhzx
-鳳凰香港,https://tv.iill.top/tv/fhxg
-無綫新聞台,https://tv.iill.top/tv/wxxw
-翡翠台,https://tv.iill.top/tv/fct
-TVBJADE,https://tv.iill.top/tv/jade
-明珠台,https://tv.iill.top/tv/mzt
-星河台,https://tv.iill.top/tv/xh
-TVB PLUS,https://tv.iill.top/tv/tvb
-RTHK31,https://tv.iill.top/tv/rthk31
-RTHK32,https://tv.iill.top/tv/rthk32
-VIUTV,https://tv.iill.top/tv/viu
-VIUTVSIX,https://tv.iill.top/tv/viu6
-娛樂新聞台,https://tv.iill.top/tv/ylxw
-千禧經典台,https://tv.iill.top/tv/qxjd
-華麗台,https://tv.iill.top/tv/wlt
-歡喜台,https://tv.iill.top/tv/hxt
-ASTRO AEC,https://tv.iill.top/tv/xty
-ASTRO QUANJIA HD,https://tv.iill.top/tv/qj
-ASTRO AOD,https://tv.iill.top/tv/aod
-天映經典頻道,https://tv.iill.top/tv/ccm
-天映頻道,https://tv.iill.top/tv/typd
-靖天國際台,https://tv.iill.top/tv/jtgj
-靖天卡通台,https://tv.iill.top/tv/jtkt
-美亞电影台,https://tv.iill.top/tv/mydy
-緯來日本台,https://tv.iill.top/tv/wlrb
-緯來體育台,https://tv.iill.top/tv/wlty
-緯來電影台,https://tv.iill.top/tv/wldy
-動物星球,https://tv.iill.top/tv/dwxq
-ONE,https://tv.iill.top/tv/one
-AXN,https://tv.iill.top/tv/axn
-CINEMAX,https://tv.iill.top/tv/cinemax
-HBO,https://tv.iill.top/tv/hbo
-HBO HD,https://tv.iill.top/tv/hbohd
-HBOHITS,https://tv.iill.top/tv/qdjx
-HBOSIGNATURE,https://tv.iill.top/tv/ycjx
-HBOFAMILY,https://tv.iill.top/tv/wxjt
-好萊塢電影台,https://tv.iill.top/tv/hlw
-愛爾達體育1台,https://tv.iill.top/tv/aedty1
-愛爾達體育2台,https://tv.iill.top/tv/aedty2
-愛爾達體育3台,https://tv.iill.top/tv/aedty3
-愛爾達體育4台,https://tv.iill.top/tv/aedty4
-愛爾達影劇台,https://tv.iill.top/tv/aedyj
-博斯高球台,https://tv.iill.top/tv/bsgq1
-博斯高球二台,https://tv.iill.top/tv/bsgq2
-博斯運動二台,https://tv.iill.top/tv/bsyd2
-博斯魅力台,https://tv.iill.top/tv/bsml
-博斯網球台,https://tv.iill.top/tv/bswq
-博斯無限台,https://tv.iill.top/tv/bswx
-TVBS,https://tv.iill.top/tv/tvbs
-TVBS 新聞台,https://tv.iill.top/tv/tvbsxw
-TVBS 歡樂台,https://tv.iill.top/tv/tvbshl
-中天新聞台,https://tv.iill.top/tv/ztxw
-中天娛樂台,https://tv.iill.top/tv/ztyl
-中天綜合台,https://tv.iill.top/tv/ztzh
-中天亞洲台,https://tv.iill.top/tv/ztyz
-中視,https://tv.iill.top/tv/zs
-华視,https://tv.iill.top/tv/hs
-公視,https://tv.iill.top/tv/gs
-台視,https://tv.iill.top/tv/ts
-公視新聞台,https://tv.iill.top/tv/tsxw
-民視,https://tv.iill.top/tv/ms
-民視第一台,https://tv.iill.top/tv/msdy
-民視新聞台,https://tv.iill.top/tv/msxw
-民視台灣台,https://tv.iill.top/tv/mstw
-寰宇新聞台,https://tv.iill.top/tv/hyxw
-寰宇財經台,https://tv.iill.top/tv/hycj
-八大第一台,https://tv.iill.top/tv/bddy
-八大綜藝台,https://tv.iill.top/tv/bdzh
-八大戲劇台,https://tv.iill.top/tv/bdxj
-三立台灣台,https://tv.iill.top/tv/sltw
-三立戲劇台,https://tv.iill.top/tv/slxj
-三立綜合台,https://tv.iill.top/tv/slzh
-東森新聞台,https://tv.iill.top/tv/dsxw
-東森綜合台,https://tv.iill.top/tv/dszh
-東森電影台,https://tv.iill.top/tv/dsdy
-東森戲劇台,https://tv.iill.top/tv/dsxj
-東森洋片台,https://tv.iill.top/tv/dsyp
-東森超視,https://tv.iill.top/tv/dscs
-東森財經新聞,https://tv.iill.top/tv/dscj
-龍華偶像台,https://tv.iill.top/tv/lhox
-龍華戲劇台,https://tv.iill.top/tv/lhxj
-龍華洋片台,https://tv.iill.top/tv/lhyp
-龍華電影台,https://tv.iill.top/tv/lhdy
-龍祥時代,https://tv.iill.top/tv/lxsd
-非凡新聞台,https://tv.iill.top/tv/ffxw
-年代新聞台,https://tv.iill.top/tv/ndxw
-探索亞洲,https://tv.iill.top/tv/tsyz
-DMAX,https://tv.iill.top/tv/tsdl
-探索頻道,https://tv.iill.top/tv/tspd
-亞洲旅遊台,https://tv.iill.top/tv/yzly
-亚洲美食,https://tv.iill.top/tv/yzms
-美食星球HD,https://tv.iill.top/tv/msxq
-EYETV旅游,https://tv.iill.top/tv/eyely
-華藝綜合台,https://tv.iill.top/tv/hyzh
-大愛電視,https://tv.iill.top/tv/da
-CI罪案偵查頻道,https://tv.iill.top/tv/zazj
-CN卡通頻道,https://tv.iill.top/tv/cnkt
-BBC EARTH,https://tv.iill.top/tv/bbc1
-BBC LIFESTYLE,https://tv.iill.top/tv/bbc2
-iQIYI,https://tv.iill.top/tv/aqy
-Arirang,https://tv.iill.top/tv/all
-MTV Live,https://tv.iill.top/tv/mtv
-博斯無限台,https://tv.iill.top/litv/litv-longturn10
-博斯無限二台,https://tv.iill.top/litv/litv-longturn13
-博斯網球台,https://tv.iill.top/litv/litv-longturn09
-博斯運動一台,https://tv.iill.top/litv/litv-longturn07
-博斯運動二台,https://tv.iill.top/litv/litv-longturn08
-博斯高球台,https://tv.iill.top/litv/litv-longturn05
-博斯高球二台,https://tv.iill.top/litv/litv-longturn06
-博斯魅力台,https://tv.iill.top/litv/litv-longturn04
-時尚運動X,https://tv.iill.top/4gtv/277
-智林體育台,https://tv.iill.top/litv/4gtv-4gtv101
-TVBS,https://tv.iill.top/litv/4gtv-4gtv073
-TVBS 台劇台,https://tv.iill.top/4gtv/285
-TVBS 新聞台,https://tv.iill.top/litv/4gtv-4gtv072
-TVBS 歡樂台,https://tv.iill.top/litv/4gtv-4gtv068
-TVBS 精采台,https://tv.iill.top/litv/4gtv-4gtv067
-TVBS 綜藝台,https://tv.iill.top/4gtv/284
-三立新聞,https://tv.iill.top/4gtv/229
-三立綜合台,https://tv.iill.top/4gtv/169
-中天亞洲台,https://tv.iill.top/litv/4gtv-4gtv109
-中天新聞台,https://tv.iill.top/litv/4gtv-4gtv009
-中視,https://tv.iill.top/litv/4gtv-4gtv040
-中視新聞台,https://tv.iill.top/litv/4gtv-4gtv074
-中視經典台,https://tv.iill.top/litv/4gtv-4gtv080
-亞洲旅遊台,https://tv.iill.top/litv/litv-longturn17
-靖天卡通台,https://tv.iill.top/litv/4gtv-4gtv044
-靖天國際台,https://tv.iill.top/litv/4gtv-4gtv063
-靖天戲劇台,https://tv.iill.top/litv/4gtv-4gtv058
-靖天日本台,https://tv.iill.top/litv/4gtv-4gtv047
-靖天映畫台,https://tv.iill.top/litv/4gtv-4gtv055
-靖天歡樂台,https://tv.iill.top/litv/4gtv-4gtv054
-靖天綜合台,https://tv.iill.top/litv/4gtv-4gtv046
-靖天育樂台,https://tv.iill.top/litv/4gtv-4gtv062
-靖天資訊台,https://tv.iill.top/litv/4gtv-4gtv065
-靖天電影台,https://tv.iill.top/litv/4gtv-4gtv061
-靖洋卡通 Nice Bingo,https://tv.iill.top/litv/4gtv-4gtv057
-靖洋戲劇台,https://tv.iill.top/litv/4gtv-4gtv045
-龍華偶像台,https://tv.iill.top/litv/litv-longturn12
-龍華卡通台,https://tv.iill.top/litv/litv-longturn01
-龍華戲劇台,https://tv.iill.top/litv/litv-longturn18
-龍華日韓台,https://tv.iill.top/litv/litv-longturn11
-龍華經典台,https://tv.iill.top/litv/litv-longturn21
-龍華電影台,https://tv.iill.top/litv/litv-longturn03
-八大精彩台,https://tv.iill.top/litv/4gtv-4gtv034
-八大綜藝台,https://tv.iill.top/litv/4gtv-4gtv039
-公視戲劇台,https://tv.iill.top/litv/4gtv-4gtv042
-台灣戲劇台,https://tv.iill.top/litv/litv-longturn22
-台視,https://tv.iill.top/litv/4gtv-4gtv066
-台視新聞台,https://tv.iill.top/litv/4gtv-4gtv051
-台視財經台,https://tv.iill.top/litv/4gtv-4gtv056
-客家電視台,https://tv.iill.top/litv/4gtv-4gtv043
-寰宇新聞台,https://tv.iill.top/litv/litv-longturn14
-寰宇新聞台灣台,https://tv.iill.top/litv/litv-longturn15
-寰宇財經台,https://tv.iill.top/litv/litv-longturn23
-東森新聞,https://tv.iill.top/litv/4gtv-4gtv152
-東森財經新聞,https://tv.iill.top/litv/4gtv-4gtv153
-華視,https://tv.iill.top/litv/4gtv-4gtv041
-華視新聞,https://tv.iill.top/litv/4gtv-4gtv052
-民視,https://tv.iill.top/litv/4gtv-4gtv002
-民視台灣台,https://tv.iill.top/litv/4gtv-4gtv001
-民視影劇台,https://tv.iill.top/litv/litv-ftv09
-民視新聞台,https://tv.iill.top/litv/litv-ftv13
-民視旅遊台,https://tv.iill.top/litv/litv-ftv07
-民視第一台,https://tv.iill.top/litv/4gtv-4gtv003
-民視綜藝台,https://tv.iill.top/litv/4gtv-4gtv004
-非凡商業台,https://tv.iill.top/litv/4gtv-4gtv048
-非凡新聞台,https://tv.iill.top/litv/4gtv-4gtv010
-鏡電視新聞台,https://tv.iill.top/litv/4gtv-4gtv075
-AMC 最愛電影,https://tv.iill.top/litv/4gtv-4gtv017
+DOUYU,#genre#
+美食台,http://live.iill.top/douyu.php?id=3091151
+ray烤肉,http://live.iill.top/douyu.php?id=8828565
+日食记,http://live.iill.top/douyu.php?id=2206405
+与光料理,http://live.iill.top/douyu.php?id=9665266
+滇西小哥的美食,http://live.iill.top/douyu.php?id=3243427
+大自然纪录片,http://live.iill.top/douyu.php?id=4837387
+贝爷 纪录片,http://live.iill.top/douyu.php?id=454867
+小沫带您沉浸式感受世界各地的美景，http://live.iill.top/douyu.php?id=9036111
+周星驰,http://live.iill.top/douyu.php?id=122402
+海绵宝宝,http://live.iill.top/douyu.php?id=3949681
+爱情公寓,http://live.iill.top/douyu.php?id=6566658
+华语电影,http://live.iill.top/douyu.php?id=276200
+贝爷影厅,http://live.iill.top/douyu.php?id=36337
+孤独美食家,http://live.iill.top/douyu.php?id=260322
+成龙历险记,http://live.iill.top/douyu.php?id=2287949
+漫威,http://live.iill.top/douyu.php?id=6140589
+哈利波特,http://live.iill.top/douyu.php?id=8814650
+龙门镖局,http://live.iill.top/douyu.php?id=9650860
 
-
-其他他,#genre#
-i-Fun 動漫台,https://tv.iill.top/litv/litv-ftv15
-幸福空間居家台,https://tv.iill.top/4gtv/168
-影迷數位紀實台,https://tv.iill.top/4gtv/212
-影迷數位電影台,https://tv.iill.top/litv/4gtv-4gtv011
-戲劇免費看 1台,https://tv.iill.top/4gtv/270
-戲劇免費看 2台,https://tv.iill.top/4gtv/244
-電影免費看 2台,https://tv.iill.top/4gtv/245
-半島國際新聞台,https://tv.iill.top/litv/litv-ftv10
-中視菁采台,https://tv.iill.top/litv/4gtv-4gtv064
-原住民族電視台,https://tv.iill.top/4gtv/273
-人間衛視,https://tv.iill.top/4gtv/210
-兒童卡通台,https://tv.iill.top/4gtv/269
-滾動力 Rollor,https://tv.iill.top/4gtv/249
-第1商業台,https://tv.iill.top/litv/4gtv-4gtv104
-精選動漫台,https://tv.iill.top/4gtv/204
-經典卡通台,https://tv.iill.top/4gtv/202
-經典電影台,https://tv.iill.top/4gtv/201
-花系列 經典劇場,https://tv.iill.top/4gtv/279
-視納華仁紀實頻道,https://tv.iill.top/litv/4gtv-4gtv013
-豬哥亮歌廳秀,https://tv.iill.top/litv/4gtv-4gtv006
-超人力霸王整套看,https://tv.iill.top/4gtv/278
-車迷 TV,https://tv.iill.top/4gtv/160
-達文西頻道,https://tv.iill.top/litv/4gtv-4gtv018
-采昌影劇台,https://tv.iill.top/litv/4gtv-4gtv049
-金光布袋戲,https://tv.iill.top/4gtv/236
-霹靂布袋戲,http://152.67.28.220:5200/4gtv/301
-電影原聲台 CMusic,https://tv.iill.top/4gtv/218
-國會頻道1,https://tv.iill.top/litv/4gtv-4gtv084
-國會頻道2,https://tv.iill.top/litv/4gtv-4gtv085
-大愛電視,https://tv.iill.top/4gtv/209
-大愛電視2,https://tv.iill.top/4gtv/230
-1905极限反转,http://live.iill.top/1905.php?id=1905a
-1905环球经典,http://live.iill.top/1905.php?id=1905b
-资兴台,http://live.iill.top/zxt.php
-斯诺克 𝟙,http://live.iill.top/huya.php?id=880214
-斯诺克 𝟚,http://live.iill.top/huya.php?id=880625
-UFC,http://live.iill.top/huya.php?id=880223
-環球電視台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-Red Bull TV「体育」,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-Deluxe Lounge HD「自然」,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.com
-音乐石榴「音乐」,http://live.iill.top/huya.php?id=17091681
-音乐速递「音乐」,http://live.iill.top/huya.php?id=19439762
-治愈•放松「音乐」,http://live.iill.top/huya.php?id=21241811
-阅读•学习「音乐」,http://live.iill.top/huya.php?id=21241813
-电视剧•1「解说」,http://live.iill.top/huya.php?id=21277391
-电视剧•2「解说」,http://live.iill.top/huya.php?id=25018873
-电影•1「解说」,http://live.iill.top/huya.php?id=20289754
-电影•2「解说」,http://live.iill.top/huya.php?id=24983280
-电影•3「解说」,http://live.iill.top/huya.php?id=24396428
-动漫•1「解说」,http://live.iill.top/huya.php?id=19757963
-恐怖电影「解说」,http://live.iill.top/huya.php?id=23419131
-漫威「解说」,http://live.iill.top/huya.php?id=17089779
-美剧「解说」,http://live.iill.top/huya.php?id=20488841
-七龙珠「解说」,http://live.iill.top/huya.php?id=25650806
-止戈电影「解说」,http://live.iill.top/huya.php?id=19863777
-挨饿德•1「其他」,http://live.iill.top/huya.php?id=20985858
-挨饿德•2「其他」,http://live.iill.top/huya.php?id=17693860
-互扇巴掌大赛「其他」,http://live.iill.top/huya.php?id=20072873
-荒野求生「其他」,http://live.iill.top/huya.php?id=593667
-野行者「其他」,http://live.iill.top/huya.php?id=20072663
-跳舞「其他」,http://live.iill.top/huya.php?id=24634408
-茶啊二中「动画」,http://live.iill.top/huya.php?id=11213191
-哆啦A梦「动漫」,http://live.iill.top/huya.php?id=11601963
-航海王「动漫」,http://live.iill.top/huya.php?id=16913382
-七龙珠「动漫」,http://live.iill.top/huya.php?id=11601966
-猫和老鼠「动漫」,http://live.iill.top/huya.php?id=11352879
-中华小当家「动漫」,http://live.iill.top/huya.php?id=11342413
