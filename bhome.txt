@@ -389,3 +389,5 @@ ray烤肉,http://live.iill.top/douyu.php?id=8828565
 哈利波特,http://live.iill.top/douyu.php?id=8814650
 龙门镖局,http://live.iill.top/douyu.php?id=9650860
 
+Thailand,#genre#
+Channel 3,https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
