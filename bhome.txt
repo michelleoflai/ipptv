@@ -395,6 +395,16 @@ Channel 3,https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.
 
 
 电视剧,#genre#
+延禧攻略,http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
+爱情公寓,http://223.85.105.11/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
+欢乐颂,http://zzy789.xyz/douyu1.php?id=3756989
+亮剑,http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u8
+亮剑,http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u8
+特种兵之火凤凰,http://223.85.105.11/test-txdwk.flv.huya.com/src/1239543150714-1239543150714-11135001069078183936-2479086424884-10057-A-0-1.m3u8
+笑傲江湖,http://1.94.31.214:35455/huya/26355790
+
+
+
 综艺1,https://live.metshop.top/huya/23735126
 电视剧1,https://live.metshop.top/huya/23728660
 电视剧2,https://live.metshop.top/huya/23740156
