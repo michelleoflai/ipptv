@@ -529,8 +529,9 @@ Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 JTBC,https://everylive.space/live/jtbc/livestream.m3u8
 JTV|SBS,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 KBC TV,http://112.175.51.214:1935/live/myStream/playlist.m3u8
-KBS 1TV,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
-KBS 2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS2,http://183.99.22.189:9981/stream/channelid/806525648?
 KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
 KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
