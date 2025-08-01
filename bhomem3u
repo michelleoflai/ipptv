@@ -17,6 +17,32 @@ https://vthanh.utako.moe/js2/index.m3u8
 https://vthanh.utako.moe/js3/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-id="JSPORTS4.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
 https://vthanh.utako.moe/js4/index.m3u8
+
+#EXTINF:-1 group-title="体育" tvg-id="mlb network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png,mlb network
+https://stream1.freetv.fun/mlb-network-4.m3u8
+#EXTINF:-1 group-title="体育" tvg-id="mlb network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png,mlb network
+https://stream1.freetv.fun/0e68350f1bbe008d9c27353f17bb502a6b13c22ca1a5d78e432998e08af6c174.m3u8
+
+#EXTINF:-1 tvg-name="Tennis" tvg-id="408617" tvg-country="美國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032247367159_67.jpg" group-title="体育",[BD]tennis plus
+https://stream1.freetv.fun/tennis-plus-1.m3u8
+#EXTINF:-1 tvg-name="Tennis" tvg-id="408617" tvg-country="美國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032247367159_67.jpg" group-title="体育",[SD]tennis
+https://stream1.freetv.fun/tennis-1.ctv
+
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[BD]sky sports f1
+https://stream1.freetv.fun/sky-sports-f1-5.ctv
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[BD]sky sports f1 ==
+https://stream1.freetv.fun/sky-sports-f1-9.ctv
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[BD]skysports f1 *wj
+https://stream1.freetv.fun/skysports-f1--wj-1.ctv
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[HD]sky sports f1
+https://stream1.freetv.fun/sky-sports-f1-7.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[BD]sky sports f1-
+https://stream1.freetv.fun/sky-sports-f1-3.ctv
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[BD]sky sports f1 =
+https://stream1.freetv.fun/sky-sports-f1-6.ctv
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-id="12022" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143639349572_52.png" group-title="体育",[BD]sky sports golf ==
+https://stream1.freetv.fun/sky-sports-golf-1.ctv
+
 #EXTINF:-1 group-title="体育",红牛TV
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
 #EXTINF:-1 group-title="体育",F1赛车
@@ -28,19 +54,37 @@ http://primestreams.tv:826/live/SF11/vulwBvtfo9/109152.ts
 
 
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="💓专享央视",CCTV1
-http://8.138.7.223/tv/migu.php?id=cctv1
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png"  group-title="💓专享央视",CCTV2
-http://8.138.7.223/tv/migu.php?id=cctv2
+
+
 #EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png"  group-title="💓专享央视",CCTV3
-http://8.138.7.223/tv/migu.php?id=cctv3
+
+
 #EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png"  group-title="💓专享央视",CCTV4
-http://8.138.7.223/tv/migu.php?id=cctv4
-#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png"  group-title="💓专享央视",CCTV4
-http://8.138.7.223/tv/migu.php?id=cctv4a
-#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png"  group-title="💓专享央视",CCTV4
-http://8.138.7.223/tv/migu.php?id=cctv4o
+
 #EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png"  group-title="💓专享央视",CCTV5
-http://8.138.7.223/tv/migu.php?id=cctv5
+
+#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png"  group-title="💓专享央视",CCTV5+
+
+#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png"  group-title="💓专享央视",CCTV6
+
+#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png"  group-title="💓专享央视",CCTV7
+
+#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png"  group-title="💓专享央视",CCTV8
+
+#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png"  group-title="💓专享央视",CCTV9
+#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png"  group-title="💓专享央视",CCTV10
+#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png"  group-title="💓专享央视",CCTV11
+#EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png"  group-title="💓专享央视",CCTV12
+#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png"  group-title="💓专享央视",CCTV13
+#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png"  group-title="💓专享央视",CCTV14
+#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png"  group-title="💓专享央视",CCTV15
+#EXTINF:-1  tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png"  group-title="💓专享央视",CCTV16
+#EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png"  group-title="💓专享央视",CCTV17
+#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png"  group-title="💓专享央视",CCTV13
+
+
 
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
