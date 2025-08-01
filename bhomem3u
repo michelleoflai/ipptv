@@ -1,0 +1,65 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 group-title="体育" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/elta2.png",愛爾達體育1台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
+#EXTINF:-1 group-title="体育" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/elta2.png",愛爾達體育1台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport1_twn
+#EXTINF:-1 group-title="体育" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/elta2.png",愛爾達體育2台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+#EXTINF:-1 group-title="体育" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/elta2.png",愛爾達體育3台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+#EXTINF:-1 group-title="体育" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main//logo/elta2.png",愛爾達體育4台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport4_twn
+#EXTINF:-1 group-title="体育" tvg-id="JSPORTS1.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
+https://vthanh.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-id="JSPORTS2.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
+https://vthanh.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-id="JSPORTS3.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
+https://vthanh.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-id="JSPORTS4.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
+https://vthanh.utako.moe/js4/index.m3u8
+#EXTINF:-1 group-title="体育",红牛TV
+http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
+#EXTINF:-1 group-title="体育",F1赛车
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="体育",Fox Sports 1
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118499.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="体育",Fox Sports 2
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/109152.ts
+
+
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="💓专享央视",CCTV1
+http://8.138.7.223/tv/migu.php?id=cctv1
+#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png"  group-title="💓专享央视",CCTV2
+http://8.138.7.223/tv/migu.php?id=cctv2
+#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png"  group-title="💓专享央视",CCTV3
+http://8.138.7.223/tv/migu.php?id=cctv3
+#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png"  group-title="💓专享央视",CCTV4
+http://8.138.7.223/tv/migu.php?id=cctv4
+#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png"  group-title="💓专享央视",CCTV4
+http://8.138.7.223/tv/migu.php?id=cctv4a
+#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png"  group-title="💓专享央视",CCTV4
+http://8.138.7.223/tv/migu.php?id=cctv4o
+#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png"  group-title="💓专享央视",CCTV5
+http://8.138.7.223/tv/migu.php?id=cctv5
+
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="hhttps://i.imgur.com/e8w10pk.jpeg" group-title="韩国",MBC
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",JTBC
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",MNet
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",tvN
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",tvN Show
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png"  group-title="韩国", K-POP by CJ ENM
+https://jmp2.uk/sam-US39000038W.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png"  group-title="MUSIC", New Kpop
+https://jmp2.uk/sam-USAJ3000013FJ.m3u8
