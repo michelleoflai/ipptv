@@ -8,10 +8,16 @@ http://iptv543.com/smt.php?id=eltasport_twn
 
 #EXTINF:-1 tvg-id="334902" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA5.png",愛爾達體育2台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+#EXTINF:-1 tvg-id="334902" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA5.png",愛爾達體育2台
+http://iptv543.com/smt.php?id=eltasport2_twn
 #EXTINF:-1 tvg-id="335027" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA6.png",愛爾達體育3台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+#EXTINF:-1 tvg-id="335027" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA6.png",愛爾達體育3台
+http://iptv543.com/smt.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="334772" group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport4_twn
+#EXTINF:-1 tvg-id="334772" group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
+http://iptv543.com/smt.php?id=eltasport4_twn
 
 #EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="10761" group-title="体育" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
 https://vthanh.utako.moe/js1/index.m3u8
@@ -29,6 +35,13 @@ rtmp://f13h.mine.nu/sat/tv721
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-id="335106" group-title="体育" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/DAZN_2_2024.svg/revision/latest?cb=20240713212845",ELEVEN體育2
 rtmp://f13h.mine.nu/sat/tv741
+
+
+#EXTINF:-1 tvg-id="369230" group-title="体育" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg",博斯运动1
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
+#EXTINF:-1 tvg-id="369217" group-title="体育" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611155111042154_39.jpg",博斯运动2
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
+
 
 #EXTINF:-1 tvg-id="MLB Network" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223021313090666_70.png" group-title="体育",MLB Network
 https://stream1.freetv.fun/mlb-network-4.m3u8
@@ -114,12 +127,27 @@ http://39.137.75.234/000000001000/1000000002000031451/index.m3u8?channel-id=yste
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="大陆卫视",青海卫视
 http://39.137.75.234/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=no
 
-
-#EXTINF:-1 group-title="其他频道" tvg-logo="",緯來日本
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 group-title="其他频道" tvg-logo="",緯來育樂
-rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 group-title="其他频道" tvg-logo="",東森超視
+#EXTINF:-1 tvg-id="369325" tvg-name="中视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110203905586_95.png" group-title="台灣",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-id="369320" tvg-name="台视" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152050694697_93.png" group-title="台灣",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-id="368922" tvg-name="华视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110217658961_41.png" group-title="台灣",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-id="370139" tvg-name="民视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110150198707_96.png" group-title="台灣",民视
+http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
+#EXTINF:-1 tvg-id="369189" tvg-name="东森超视" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611151027638103_18.jpg" group-title="台灣",东森超视
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 group-title="其他频道" tvg-logo="",MoMo綜合
+#EXTINF:-1 tvg-id="377428" tvg-name="MoMo综合" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152214593276_64.jpg" group-title="台灣",MoMo综合
 rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 tvg-id="369284" tvg-name="纬来日本" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152232341127_12.png" group-title="台灣",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-id="369289" tvg-name="纬来育乐" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152050694697_93.png" group-title="台灣",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-id="368944" tvg-name="纬来綜合" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611150824320534_85.png" group-title="台灣",纬来綜合
+http://61.216.11.93:49981/stream/channelid/106481234.m3u8
+#EXTINF:-1 tvg-id="369240" tvg-name="非凡新闻" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611151730628059_62.jpg" group-title="台灣",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 tvg-id="368943" tvg-name="八大第一" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611150841976514_97.jpg" group-title="台灣",八大第一
+http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
+#EXTINF:-1 tvg-id="368953" tvg-name="八大综合" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611150900167189_13.jpg" group-title="台灣",八大综合
+http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
