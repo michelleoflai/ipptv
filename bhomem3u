@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_tw.xml,https://epg.pw/xmltv/epg_JP.xml,https://epg.catvod.com/epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_tw.xml,https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-id="334832" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
 #EXTINF:-1 tvg-id="334832" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
@@ -9,15 +9,17 @@ http://iptv543.com/smt.php?id=eltasport_twn
 #EXTINF:-1 tvg-id="334902" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA5.png",愛爾達體育2台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
 #EXTINF:-1 tvg-id="334902" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA5.png",愛爾達體育2台
-http://iptv543.com/smt.php?id=eltasport2_twn
+P2p://66.42.60.221:6001/685c85ee00089a0503daa0a448215888.ts
 #EXTINF:-1 tvg-id="335027" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA6.png",愛爾達體育3台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="335027" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA6.png",愛爾達體育3台
 http://iptv543.com/smt.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="334772" group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport4_twn
+P2p://66.42.60.221:6001/685caf0e0003af0b047b4461c414bc37.ts
 #EXTINF:-1 tvg-id="334772" group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
-http://iptv543.com/smt.php?id=eltasport4_twn
+http://api.mytv666.top/api/hk.php?id=3536613431373665346133366337643737336535653030616332383839376666267469643d74762669643d3836
+#EXTINF:-1 tvg-id="334772" group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport4_twn
 
 #EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="10761" group-title="体育" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
 https://vthanh.utako.moe/js1/index.m3u8
@@ -29,13 +31,21 @@ https://vthanh.utako.moe/js3/index.m3u8
 https://vthanh.utako.moe/js4/index.m3u8
 
 
-#EXTINF:-1 tvg-id="369287" group-title="体育" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152124343621_53.png",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
+
 #EXTINF:-1 tvg-id="369288" group-title="体育" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/DAZN_1_2024.svg/revision/latest?cb=20240713213358",ELEVEN體育1
 rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-id="369288" group-title="体育" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/DAZN_1_2024.svg/revision/latest?cb=20240713213358",ELEVEN體育1
+http://api.mytv666.top/api/hk.php?id=6538623163353532633730323639656261623566373466303666663231626464267469643d74762669643d3830
 #EXTINF:-1 tvg-id="335106" group-title="体育" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/DAZN_2_2024.svg/revision/latest?cb=20240713212845",ELEVEN體育2
 rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-id="335106" group-title="体育" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/DAZN_2_2024.svg/revision/latest?cb=20240713212845",ELEVEN體育2
+http://api.mytv666.top/api/hk.php?id=3238313039396131333831376564343766643936376637643132333763656334267469643d74762669643d3831
 
+#EXTINF:-1 tvg-id="369287" group-title="体育" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152124343621_53.png",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="",智林体育
+http://api.mytv666.top/api/hk.php?id=6661303233393533336130386239623762663935626634616431363961633265267469643d74762669643d313339
 
 #EXTINF:-1 tvg-id="369230" group-title="体育" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg",博斯运动1
 https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
@@ -129,6 +139,8 @@ http://39.137.75.234/000000001000/1000000002000013359/index.m3u8?channel-id=yste
 
 #EXTINF:-1 tvg-id="369325" tvg-name="中视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110203905586_95.png" group-title="台灣",中视
 rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-id="369320" tvg-name="台视" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152050694697_93.png" group-title="台灣",台视
+http://api.mytv666.top/api/hk.php?id=3131376436636639653166326535623238366237646639393164336336303962267469643d74762669643d313135
 #EXTINF:-1 tvg-id="369320" tvg-name="台视" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152050694697_93.png" group-title="台灣",台视
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-id="368922" tvg-name="华视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110217658961_41.png" group-title="台灣",华视
