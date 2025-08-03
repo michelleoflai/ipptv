@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_tw.xml,https://epg.catvod.com/epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_TW.xml,https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-id="334832" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
 #EXTINF:-1 tvg-id="334832" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
@@ -21,35 +21,24 @@ http://api.mytv666.top/api/hk.php?id=3536613431373665346133366337643737336535653
 #EXTINF:-1 tvg-id="334772" group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport4_twn
 
-#EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="10761" group-title="体育" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-https://vthanh.utako.moe/js1/index.m3u8
-#EXTINF:-1 tvg-name="J SPORTS 2" tvg-id="10768" group-title="体育" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
-https://vthanh.utako.moe/js2/index.m3u8
-#EXTINF:-1 tvg-name="J SPORTS 3" tvg-id="10822" group-title="体育" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
-https://vthanh.utako.moe/js3/index.m3u8
-#EXTINF:-1 tvg-name="J SPORTS 4" tvg-id="10829" group-title="体育" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
-https://vthanh.utako.moe/js4/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="369288" group-title="体育" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/DAZN_1_2024.svg/revision/latest?cb=20240713213358",ELEVEN體育1
+#EXTINF:-1 tvg-id="369288" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png",ELEVEN體育1
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-id="369288" group-title="体育" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/DAZN_1_2024.svg/revision/latest?cb=20240713213358",ELEVEN體育1
+#EXTINF:-1 tvg-id="369288" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png",ELEVEN體育1
 http://api.mytv666.top/api/hk.php?id=6538623163353532633730323639656261623566373466303666663231626464267469643d74762669643d3830
-#EXTINF:-1 tvg-id="335106" group-title="体育" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/DAZN_2_2024.svg/revision/latest?cb=20240713212845",ELEVEN體育2
+#EXTINF:-1 tvg-id="335106" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png",ELEVEN體育2
 rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1 tvg-id="335106" group-title="体育" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/DAZN_2_2024.svg/revision/latest?cb=20240713212845",ELEVEN體育2
+#EXTINF:-1 tvg-id="335106" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png",ELEVEN體育2
 http://api.mytv666.top/api/hk.php?id=3238313039396131333831376564343766643936376637643132333763656334267469643d74762669643d3831
 
-#EXTINF:-1 tvg-id="369287" group-title="体育" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152124343621_53.png",纬来体育
+#EXTINF:-1 tvg-id="369287" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
-#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="",智林体育
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TSL.png",智林体育
 http://api.mytv666.top/api/hk.php?id=6661303233393533336130386239623762663935626634616431363961633265267469643d74762669643d313339
 
-#EXTINF:-1 tvg-id="369230" group-title="体育" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611155240513496_61.jpg",博斯运动1
+#EXTINF:-1 tvg-id="369230" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast1.png",博斯运动1
 https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-#EXTINF:-1 tvg-id="369217" group-title="体育" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611155111042154_39.jpg",博斯运动2
+#EXTINF:-1 tvg-id="369217" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png",博斯运动2
 https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
 
 
@@ -87,28 +76,6 @@ http://primestreams.tv:826/live/SF11/vulwBvtfo9/109152.ts
 
 
 
-#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",KBS 1TV
-http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",KBS 2TV
-http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",SBS
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC" tvg-logo="hhttps://i.imgur.com/e8w10pk.jpeg" group-title="韩国",MBC
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",JTBC
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",MNet
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="tvN" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",tvN
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",tvN Show
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png"  group-title="韩国", K-POP by CJ ENM
-https://jmp2.uk/sam-US39000038W.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png"  group-title="MUSIC", New Kpop
-https://jmp2.uk/sam-USAJ3000013FJ.m3u8
-
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="大陆卫视",湖南卫视
 http://39.137.75.234/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=no
@@ -139,27 +106,50 @@ http://39.137.75.234/000000001000/1000000002000013359/index.m3u8?channel-id=yste
 
 #EXTINF:-1 tvg-id="369325" tvg-name="中视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110203905586_95.png" group-title="台灣",中视
 rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-id="369320" tvg-name="台视" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152050694697_93.png" group-title="台灣",台视
+#EXTINF:-1 tvg-id="369320" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="台灣",台视
 http://api.mytv666.top/api/hk.php?id=3131376436636639653166326535623238366237646639393164336336303962267469643d74762669643d313135
-#EXTINF:-1 tvg-id="369320" tvg-name="台视" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152050694697_93.png" group-title="台灣",台视
+#EXTINF:-1 tvg-id="369320" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="台灣",台视
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-id="368922" tvg-name="华视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110217658961_41.png" group-title="台灣",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="370139" tvg-name="民视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110150198707_96.png" group-title="台灣",民视
 http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
-#EXTINF:-1 tvg-id="369189" tvg-name="东森超视" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611151027638103_18.jpg" group-title="台灣",东森超视
-rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 tvg-id="377428" tvg-name="MoMo综合" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152214593276_64.jpg" group-title="台灣",MoMo综合
-rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-id="369284" tvg-name="纬来日本" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152232341127_12.png" group-title="台灣",纬来日本
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-id="369289" tvg-name="纬来育乐" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152050694697_93.png" group-title="台灣",纬来育乐
-rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 tvg-id="368944" tvg-name="纬来綜合" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611150824320534_85.png" group-title="台灣",纬来綜合
-http://61.216.11.93:49981/stream/channelid/106481234.m3u8
-#EXTINF:-1 tvg-id="369240" tvg-name="非凡新闻" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611151730628059_62.jpg" group-title="台灣",非凡新闻
-rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 tvg-id="368943" tvg-name="八大第一" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611150841976514_97.jpg" group-title="台灣",八大第一
+#EXTINF:-1 tvg-id="368943" tvg-name="八大第一" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png" group-title="台灣",八大第一
 http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
-#EXTINF:-1 tvg-id="368953" tvg-name="八大综合" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611150900167189_13.jpg" group-title="台灣",八大综合
+#EXTINF:-1 tvg-id="368953" tvg-name="八大综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="台灣",八大综合
 http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
+#EXTINF:-1 tvg-id="369284" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="台灣",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-id="369289" tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="台灣",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-id="368944" tvg-name="纬来綜合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland1.png" group-title="台灣",纬来綜合
+http://61.216.11.93:49981/stream/channelid/106481234.m3u8
+#EXTINF:-1 tvg-id="377428" tvg-name="MoMo综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png" group-title="台灣",MoMo综合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 tvg-id="369189" tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="台灣",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-id="369240" tvg-name="非凡新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique1.png" group-title="台灣",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+
+
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="hhttps://i.imgur.com/e8w10pk.jpeg" group-title="韩国",MBC
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",JTBC
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",MNet
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",tvN
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",tvN Show
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png"  group-title="韩国", K-POP by CJ ENM
+https://jmp2.uk/sam-US39000038W.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png"  group-title="MUSIC", New Kpop
+https://jmp2.uk/sam-USAJ3000013FJ.m3u8
