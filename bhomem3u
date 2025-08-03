@@ -50,21 +50,6 @@ https://stream1.freetv.fun/0e68350f1bbe008d9c27353f17bb502a6b13c22ca1a5d78e43299
 #EXTINF:-1 tvg-name="Tennis" tvg-id="408617" tvg-country="美國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032247367159_67.jpg" group-title="体育" epg-url="https://epg.pw/api/epg.xml?channel_id=408617",tennis Channel [US]
 https://stream1.freetv.fun/tennis-1.ctv
 
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[BD]sky sports f1
-https://stream1.freetv.fun/sky-sports-f1-5.ctv
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[BD]sky sports f1 ==
-https://stream1.freetv.fun/sky-sports-f1-9.ctv
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[BD]skysports f1 *wj
-https://stream1.freetv.fun/skysports-f1--wj-1.ctv
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[HD]sky sports f1
-https://stream1.freetv.fun/sky-sports-f1-7.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[BD]sky sports f1-
-https://stream1.freetv.fun/sky-sports-f1-3.ctv
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="6317" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/02/25/large/20220225195048821818_33.png" group-title="体育",[BD]sky sports f1 =
-https://stream1.freetv.fun/sky-sports-f1-6.ctv
-#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-id="12022" tvg-country="英國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143639349572_52.png" group-title="体育",[BD]sky sports golf ==
-https://stream1.freetv.fun/sky-sports-golf-1.ctv
-
 #EXTINF:-1 group-title="体育",红牛TV
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
 #EXTINF:-1 group-title="体育",F1赛车
