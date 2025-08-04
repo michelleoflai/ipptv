@@ -41,12 +41,48 @@ https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
 #EXTINF:-1 tvg-id="369217" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png",博斯运动2
 https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
 
+#EXTINF:-1 group-title="体育", ESPN 1
+https://stream1.freetv.fun/espn-1.ctv
+#EXTINF:-1 group-title="体育", ESPN 1
+https://7pal.short.gy/espnus
+#EXTINF:-1 group-title="体育", ESPN 2
+https://stream1.freetv.fun/espn-2.ctv
+#EXTINF:-1 group-title="体育", ESPN 3
+https://stream1.freetv.fun/espn-3.ctv
+#EXTINF:-1 group-title="体育", ESPN 4
+https://stream1.freetv.fun/espn-4.ctv
+#EXTINF:-1 group-title="体育", ESPN 5
+https://stream1.freetv.fun/espn-5.ctv
+
+#EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports FOOTBALL" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Football.png" group-title="体育", Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="体育", Sky Sports Tennis
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png" group-title="体育", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 tvg-id="Sky-Sports-1 NZ" tvg-name="Sky Sports 1 NZ" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="体育", Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="Sky-Sports-2 NZ" tvg-name="Sky Sports 2 NZ" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="体育", Sky Sports 2 NZ
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="Sky-Sports-3 NZ" tvg-name="Sky Sports 3 NZ" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="体育", Sky Sports 3 NZ
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="Sky-Sports-4 NZ" tvg-name="Sky Sports 4 NZ" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="体育", Sky Sports 4 NZ
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="Sky-Sports-5 NZ" tvg-name="Sky Sports 5 NZ" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="体育", Sky Sports 5 NZ
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 tvg-id="Sky-Sports-6 NZ" tvg-name="Sky Sports 6 NZ" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="体育", Sky Sports 6 NZ
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="Sky-Sports-7 NZ" tvg-name="Sky Sports 7 NZ" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="体育", Sky Sports 7 NZ
+https://7pal.short.gy/skyspt7nz
+
 
 #EXTINF:-1 tvg-id="MLB Network" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223021313090666_70.png" group-title="体育",MLB Network
-https://stream1.freetv.fun/mlb-network-4.m3u8
-#EXTINF:-1 tvg-id="MLB Network" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223021313090666_70.png" group-title="体育",MLB Network
-https://stream1.freetv.fun/0e68350f1bbe008d9c27353f17bb502a6b13c22ca1a5d78e432998e08af6c174.m3u8
+https://jmp2.uk/sam-US1400001WV.m3u8
 
+
+#EXTINF:-1 tvg-name="Tennis" tvg-id="408617" tvg-country="美國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032247367159_67.jpg" group-title="体育" epg-url="https://epg.pw/api/epg.xml?channel_id=408617",tennis Channel [US]
+https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-name="Tennis" tvg-id="408617" tvg-country="美國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032247367159_67.jpg" group-title="体育" epg-url="https://epg.pw/api/epg.xml?channel_id=408617",tennis Channel [US]
 https://stream1.freetv.fun/tennis-1.ctv
 
