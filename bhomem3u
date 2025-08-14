@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_TW.xml" tvg-shift=0
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_TW.xml" tvg-shift=2
 #EXTINF:-1 tvg-id="334832" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
 #EXTINF:-1 tvg-id="334832" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
@@ -6,7 +6,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=eltasport1_twn
 #EXTINF:-1 tvg-id="334832" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
 http://iptv543.com/smt.php?id=eltasport_twn
 #EXTINF:-1 tvg-id="334832" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
-https://raw.githubusercontent.com/fleung49/star/3684343ba9a11a47b1f6a2b57c23f9b142b193f2/hhzt
+http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport_twn
 
 #EXTINF:-1 tvg-id="334902" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA5.png",愛爾達體育2台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
