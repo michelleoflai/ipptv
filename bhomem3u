@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達體育1台" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
 http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport_twn
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達體育1台" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
@@ -23,13 +23,11 @@ https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 http://iptv543.com/smt.php?id=eltasport3_twn
 
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達體育4台"  group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
-P2p://66.42.60.221:6001/685caf0e0003af0b047b4461c414bc37.ts
+http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport4_twn
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育4台"  group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
+https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達體育4台"  group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
 http://api.mytv666.top/api/hk.php?id=3536613431373665346133366337643737336535653030616332383839376666267469643d74762669643d3836
-#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育4台"  group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport4_twn
-#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育4台"  group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
-http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport4_twn
 
 #EXTINF:-1 tvg-id="369288" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png",ELEVEN體育1
 http://api.mytv666.top/api/hk.php?id=6538623163353532633730323639656261623566373466303666663231626464267469643d74762669643d3830
