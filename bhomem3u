@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" 
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達體育1台" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
 http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport_twn
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達體育1台" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
