@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_TW.xml,https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達體育1台" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
 http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport_twn
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達體育1台" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
@@ -371,15 +371,15 @@ http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 
 ================其他國家===============
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他國家",泰 | Channel 3 Thailand
+#EXTINF:-1 tvg-name="Channel 3 Thailand" tvg-logo="" group-title="其他國家",泰 | Channel 3 Thailand
 http://mytv6688.xyz/斯玛特的斯玛特.php?id=ch3_pat
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他國家",泰 | Channel 3 Thailand
+#EXTINF:-1 tvg-name="Channel 3 Thailand" tvg-logo="" group-title="其他國家",泰 | Channel 3 Thailand
 https://xn--94q.l5.ca/daili/Smartv.php?id=ch3_pat
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他國家",泰 | Gmm Channel
+#EXTINF:-1 tvg-name="Gmm Channel" tvg-logo="" group-title="其他國家",泰 | Gmm Channel
 http://mytv6688.xyz/斯玛特的斯玛特.php?id=gmmchannel_pat
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他國家",泰 | Gmm Channel
+#EXTINF:-1 tvg-name="Gmm Channel" tvg-logo="" group-title="其他國家",泰 | Gmm Channel
 https://xn--94q.l5.ca/daili/Smartv.php?id=gmmchannel_pat
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他國家",泰 | GmmOne
+#EXTINF:-1 tvg-name="GmmOne" tvg-logo="" group-title="其他國家",泰 | GmmOne
 http://mytv6688.xyz/斯玛特的斯玛特.php?id=gmmone_pat
 
 
