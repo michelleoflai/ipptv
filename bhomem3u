@@ -398,6 +398,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=gmmone_pat
 
 ===============香港=======================
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="香港",TVB娱乐新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="香港",TVB娱乐新闻
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="香港",翡翠台
 http://erp.giihgtidg.com:8080/live/jade01.m3u8
@@ -515,22 +517,28 @@ http://php.jdshipin.com/TVOD/iptv.php?id=v
 
 
 ========剧集==========
+#EXTINF:-1 tvg-logo="" group-title="剧集",爱情公寓
+http://iptv.jxpan.vip:18888/aio/huya/11336726
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",_blue胖
+http://dns.yiandrive.com:13571/huya/11601963
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",猫和老鼠
+http://dns.yiandrive.com:13571/huya/11352879
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",成龙历险记
+http://dns.yiandrive.com:13571/huya/11352946
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",网球王子
+http://dns.yiandrive.com:13571/huya/11352882
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",童话经典·蜡笔小新欢乐多
 http://dns.yiandrive.com:13571/huya/30362138
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",柯南剧场版
 http://dns.yiandrive.com:13571/huya/30080236
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",黑子的篮球3
 http://dns.yiandrive.com:13571/huya/30080253
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",迪迦奥特曼
-http://dns.yiandrive.com:13571/huya/30080215
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",仙逆
 http://dns.yiandrive.com:13571/huya/30080215
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",不良人6
 http://dns.yiandrive.com:13571/huya/30080218
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",全职猎人
 http://dns.yiandrive.com:13571/huya/30080254
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",黑子的篮球3
-http://dns.yiandrive.com:13571/huya/30080253
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",天澜魔法高中
 http://dns.yiandrive.com:13571/huya/26355772
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",迪士尼！超经典动画电影
@@ -541,14 +549,10 @@ http://dns.yiandrive.com:13571/huya/26355820
 http://dns.yiandrive.com:13571/huya/30080216
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",武魂世界
 http://dns.yiandrive.com:13571/huya/30357181
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",网球王子
-http://dns.yiandrive.com:13571/huya/11352882
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",国漫打戏天花板
 http://dns.yiandrive.com:13571/huya/11352869
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",成龍历险记
 http://dns.yiandrive.com:13571/huya/11352946
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",_blue胖
-http://dns.yiandrive.com:13571/huya/11601963
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",七龍珠改
 http://dns.yiandrive.com:13571/huya/11601966
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",一念斩千魔
@@ -567,26 +571,26 @@ http://dns.yiandrive.com:13571/huya/11352967
 http://dns.yiandrive.com:13571/huya/11602034
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",假面骑士龙骑
 http://dns.yiandrive.com:13571/huya/11352918
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",中RM
+http://dns.yiandrive.com:13571/huya/29465870
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",奔跑家族
+http://dns.yiandrive.com:13571/huya/29465869
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",RM跑男
+http://dns.yiandrive.com:13571/huya/11336725
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",脱口秀
+http://dns.yiandrive.com:13571/huya/11352875
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",脱嘴秀
+http://dns.yiandrive.com:13571/huya/30080243
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",易中天
 http://dns.yiandrive.com:13571/huya/11602032
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",五哈
 http://dns.yiandrive.com:13571/huya/30080247
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",王纪超人
 http://dns.yiandrive.com:13571/huya/21059551
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",脱口秀
-http://dns.yiandrive.com:13571/huya/11352875
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",脱嘴秀
-http://dns.yiandrive.com:13571/huya/30080243
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",封神英雄
 http://dns.yiandrive.com:13571/huya/30080246
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",RM跑男
-http://dns.yiandrive.com:13571/huya/11336725
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",刘小光
 http://dns.yiandrive.com:13571/huya/11352938
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",中RM
-http://dns.yiandrive.com:13571/huya/29465870
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",奔跑家族
-http://dns.yiandrive.com:13571/huya/29465869
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",宋小宝
 http://dns.yiandrive.com:13571/huya/11352907
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",天赐5
@@ -597,6 +601,91 @@ http://dns.yiandrive.com:13571/huya/29982647
 http://dns.yiandrive.com:13571/huya/30080237
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",还我瓢瓢拳
 http://dns.yiandrive.com:13571/huya/21059578
+
+============换了网址==========================
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",_blue胖
+http://iptv.jxpan.vip:18888/aio/huya/11601963
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",猫和老鼠
+http://iptv.jxpan.vip:18888/aio/huya/11352879
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",成龙历险记
+http://iptv.jxpan.vip:18888/aio/huya/11352946
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",网球王子
+http://iptv.jxpan.vip:18888/aio/huya/11352882
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",童话经典·蜡笔小新欢乐多
+http://iptv.jxpan.vip:18888/aio/huya/30362138
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",柯南剧场版
+http://iptv.jxpan.vip:18888/aio/huya/30080236
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",黑子的篮球3
+http://iptv.jxpan.vip:18888/aio/huya/30080253
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",仙逆
+http://iptv.jxpan.vip:18888/aio/huya/30080215
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",不良人6
+http://iptv.jxpan.vip:18888/aio/huya/30080218
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",全职猎人
+http://iptv.jxpan.vip:18888/aio/huya/30080254
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",天澜魔法高中
+http://iptv.jxpan.vip:18888/aio/huya/26355772
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",迪士尼！超经典动画电影
+http://iptv.jxpan.vip:18888/aio/huya/30080256
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",民调局异闻录
+http://iptv.jxpan.vip:18888/aio/huya/26355820
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",地灵曲
+http://iptv.jxpan.vip:18888/aio/huya/30080216
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",武魂世界
+http://iptv.jxpan.vip:18888/aio/huya/30357181
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",国漫打戏天花板
+http://iptv.jxpan.vip:18888/aio/huya/11352869
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",成龍历险记
+http://iptv.jxpan.vip:18888/aio/huya/11352946
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",七龍珠改
+http://iptv.jxpan.vip:18888/aio/huya/11601966
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",一念斩千魔
+http://iptv.jxpan.vip:18888/aio/huya/21059592
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",魔法少女
+http://iptv.jxpan.vip:18888/aio/huya/21059587
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",一人之上
+http://iptv.jxpan.vip:18888/aio/huya/11602065
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",编辑部的故事
+http://iptv.jxpan.vip:18888/aio/huya/21059591
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",刘关张三活宝
+http://iptv.jxpan.vip:18888/aio/huya/29465871
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",红娘妖狐
+http://iptv.jxpan.vip:18888/aio/huya/11352967
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",灵界侦探浦饭幽助
+http://iptv.jxpan.vip:18888/aio/huya/11602034
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",假面骑士龙骑
+http://iptv.jxpan.vip:18888/aio/huya/11352918
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",中RM
+http://iptv.jxpan.vip:18888/aio/huya/29465870
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",奔跑家族
+http://iptv.jxpan.vip:18888/aio/huya/29465869
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",RM跑男
+http://iptv.jxpan.vip:18888/aio/huya/11336725
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",脱口秀
+http://iptv.jxpan.vip:18888/aio/huya/11352875
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",脱嘴秀
+http://iptv.jxpan.vip:18888/aio/huya/30080243
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",易中天
+http://iptv.jxpan.vip:18888/aio/huya/11602032
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",五哈
+http://iptv.jxpan.vip:18888/aio/huya/30080247
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",王纪超人
+http://iptv.jxpan.vip:18888/aio/huya/21059551
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",封神英雄
+http://iptv.jxpan.vip:18888/aio/huya/30080246
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",刘小光
+http://iptv.jxpan.vip:18888/aio/huya/11352938
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",宋小宝
+http://iptv.jxpan.vip:18888/aio/huya/11352907
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",天赐5
+http://iptv.jxpan.vip:18888/aio/huya/30080249
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",于谦吴京何猷君
+http://iptv.jxpan.vip:18888/aio/huya/29982647
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",offer1
+http://iptv.jxpan.vip:18888/aio/huya/30080237
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",还我瓢瓢拳
+http://iptv.jxpan.vip:18888/aio/huya/21059578
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",哆啦A梦
 
