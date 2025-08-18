@@ -189,8 +189,6 @@ http://mytv.dothome.co.kr/ch/public/3.php
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-logo="hhttps://i.imgur.com/e8w10pk.jpeg" group-title="韩国",MBC
 https://ns1.tjmbc.co.kr:443/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC大田" tvg-logo="hhttps://i.imgur.com/e8w10pk.jpeg" group-title="韩国",MBC大田
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",JTBC
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
 #EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",MNet
@@ -203,15 +201,15 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="韩国",TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="KoreaTV" tvg-logo="https://live.fanmingming.com/tv/KoreaTV.png" group-title="韩国",KoreaTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="KoreaTV" tvg-logo="https://live.fanmingming.com/tv/KoreaTV.png" group-title="韩国",KoreaTV
+https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png"  group-title="韩国", K-POP by CJ ENM
 https://jmp2.uk/sam-US39000038W.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png"  group-title="MUSIC", New Kpop
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png"  group-title="韩国", New Kpop
 https://jmp2.uk/sam-USAJ3000013FJ.m3u8
-
-#EXTINF:-1 tvg-name="KoreaTV" tvg-logo="https://live.fanmingming.com/tv/KoreaTV.png",KoreaTV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="KoreaTV" tvg-logo="https://live.fanmingming.com/tv/KoreaTV.png",KoreaTV
-https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
 
 
 
@@ -430,6 +428,8 @@ http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 #EXTINF:-1 tvg-name="鹤岗新闻综合" tvg-logo="https://logo.catvod.com/鹤岗新闻综合.png" group-title="卫视",鹤岗新闻综合
 http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://logo.catvod.com/天元围棋.png" group-title="卫视",天元围棋
+http://n1.gzbody.com:85/rtp/239.253.43.98:5146
 
 
 ================其他國家===============
@@ -612,7 +612,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=v
 
 
 
-========剧集==========
+========剧集 dns.yiandrive.com ==========
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",海绵宝宝
+https://live.metshop.top/douyu/3949681
 #EXTINF:-1 tvg-logo="" group-title="剧集",爱情公寓
 http://iptv.jxpan.vip:18888/aio/huya/11336726
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",_blue胖
@@ -698,7 +700,9 @@ http://dns.yiandrive.com:13571/huya/30080237
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="综艺",还我瓢瓢拳
 http://dns.yiandrive.com:13571/huya/21059578
 
-============换了网址==========================
+============换了网址 iptv.jxpan.vip==========================
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",海绵宝宝
+https://live.metshop.top/douyu/3949681
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",_blue胖
 http://iptv.jxpan.vip:18888/aio/huya/11601963
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧集",猫和老鼠
