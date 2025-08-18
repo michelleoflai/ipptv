@@ -119,6 +119,8 @@ rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1  tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png" group-title="台灣",中视新闻
 http://api.mytv666.top/api/hk.php?id=3639313461653631653063653039636165353132386535623331623263316631267469643d74762669643d3532
 #EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="台灣",台视
+http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8814/live1035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="台灣",台视
 http://api.mytv666.top/api/hk.php?id=3131376436636639653166326535623238366237646639393164336336303962267469643d74762669643d313135
 #EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="台灣",台视
 rtmp://f13h.mine.nu/sat/tv071
@@ -127,7 +129,9 @@ http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:
 #EXTINF:-1 tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV1.png" group-title="台灣",台视综合
 http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8506/live1139.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110217658961_41.png" group-title="台灣",华视
-http://api.mytv666.top/api/hk.php?id=3838353863663263646330383163326466643535306539366535303963653963267469643d74762669643d313139
+http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8813/live1036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110217658961_41.png" group-title="台灣",华视
+http://api.mytv666.top/api/hk.php?id=3365666436303335663238313031386236313534663061623262383237396633267469643d74762669643d3731
 #EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110217658961_41.png" group-title="台灣",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="华视新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="台灣",华视新闻台
@@ -145,7 +149,9 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbsxwt.flv
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="台灣",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
 #EXTINF:-1 tvg-id="368943" tvg-name="八大第一" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png" group-title="台灣",八大第一
-http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
+http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8822/live1023.m3u8
+#EXTINF:-1 tvg-id="368953" tvg-name="八大综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="台灣",八大综合
+http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8821/live1022.m3u8
 #EXTINF:-1 tvg-id="368953" tvg-name="八大综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="台灣",八大综合
 http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8821/live1022.m3u8
 #EXTINF:-1 tvg-id="369284" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="台灣",纬来日本
@@ -173,8 +179,7 @@ rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-id="377428" tvg-name="MoMo综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png" group-title="台灣",MoMo综合
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="" group-title="台灣",中天娱乐
-http://61.221.215.25:8800/hls/47/index.m3u8
-
+http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8814/live1035.m3u8
 
 
 
@@ -186,9 +191,9 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港",翡翠台
