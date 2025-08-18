@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml"
+#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達體育1台" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
 http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport_twn
@@ -43,9 +43,9 @@ http://api.mytv666.top/api/hk.php?id=3238313039396131333831376564343766643936376
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png",ELEVEN體育2
 rtmp://f13h.mine.nu/sat/tv741
 
-#EXTINF:-1 tvg-id="" tvg-name="纬来体育" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png",纬来体育
+#EXTINF:-1 tvg-id="" tvg-name="纬来体育台" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png",纬来体育
 https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-#EXTINF:-1 tvg-id="" tvg-name="纬来体育" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png",纬来体育
+#EXTINF:-1 tvg-id="" tvg-name="纬来体育台" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
 
@@ -53,9 +53,9 @@ rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TSL.png",智林体育
 http://api.mytv666.top/api/hk.php?id=6661303233393533336130386239623762663935626634616431363961633265267469643d74762669643d313339
 
-#EXTINF:-1 tvg-id="369230" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast1.png",博斯运动1
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast1.png",博斯运动1
 https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-#EXTINF:-1 tvg-id="369217" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png",博斯运动2
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png",博斯运动2
 https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
 
 #EXTINF:-1 group-title="体育", ESPN 1
@@ -114,30 +114,34 @@ http://primestreams.tv:826/live/SF11/vulwBvtfo9/109152.ts
 
 
 
-#EXTINF:-1 tvg-id="369325" tvg-name="中视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110203905586_95.png" group-title="台灣",中视
+#EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110203905586_95.png" group-title="台灣",中视
 rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1  tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="台灣",中视新闻台
+#EXTINF:-1  tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台灣",中视新闻
 http://api.mytv666.top/api/hk.php?id=3639313461653631653063653039636165353132386535623331623263316631267469643d74762669643d3532
-#EXTINF:-1 tvg-id="369320" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="台灣",台视
+#EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="台灣",台视
 http://api.mytv666.top/api/hk.php?id=3131376436636639653166326535623238366237646639393164336336303962267469643d74762669643d313135
-#EXTINF:-1 tvg-id="369320" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="台灣",台视
+#EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="台灣",台视
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻台.png" group-title="台灣",台视新闻台
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" group-title="台灣",台视新闻
 http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8876/live1101.m3u8
-#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://live.fanmingming.com/tv/台视综合台.png" group-title="台灣",台视综合台
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV1.png" group-title="台灣",台视综合
 http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8506/live1139.m3u8
-#EXTINF:-1 tvg-id="368922" tvg-name="华视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110217658961_41.png" group-title="台灣",华视
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110217658961_41.png" group-title="台灣",华视
 http://api.mytv666.top/api/hk.php?id=3838353863663263646330383163326466643535306539366535303963653963267469643d74762669643d313139
-#EXTINF:-1 tvg-id="368922" tvg-name="华视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110217658961_41.png" group-title="台灣",华视
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110217658961_41.png" group-title="台灣",华视
 rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 tvg-name="华视新闻台" tvg-logo="https://live.fanmingming.cn/tv/华视新闻台.png" group-title="台灣",华视新闻台
+#EXTINF:-1 tvg-name="华视新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="台灣",华视新闻台
 http://api.mytv666.top/api/hk.php?id=6336363138633563363661326531343237616265653233303539356532363065267469643d74762669643d3537
-#EXTINF:-1 tvg-id="370139" tvg-name="民视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110150198707_96.png" group-title="台灣",民视
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110150198707_96.png" group-title="台灣",民视
 http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
 #EXTINF:-1 tvg-id="民视台湾频道台" tvg-name="民视台湾频道台" tvg-logo="https://s2.loli.net/2025/07/11/2KBnuT4vklEsZ8L.png" group-title="台灣",民视台湾台
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
-#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://live.fanmingming.cn/tv/民视第一台.png" group-title="台灣",民视第一台
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV2.png" group-title="台灣",民视第一台
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="台灣",TVBS新闻台
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbsxwt.flv
+#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="台灣",TVBS HD
+http://api.mytv666.top/api/hk.php?id=6338353765393031313964363830396232336564343339356139653361633532267469643d74762669643d3635
 #EXTINF:-1 tvg-id="368943" tvg-name="八大第一" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png" group-title="台灣",八大第一
 http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
 #EXTINF:-1 tvg-id="368953" tvg-name="八大综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="台灣",八大综合
@@ -156,20 +160,22 @@ rtmp://f13h.mine.nu/sat/tv701
 http://61.216.11.93:49981/stream/channelid/106481234.m3u8
 #EXTINF:-1 tvg-id="377428" tvg-name="MoMo综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png" group-title="台灣",MoMo综合
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-name="东森LIVE" tvg-logo="https://live.fanmingming.com/tv/东森LIVE.png" group-title="台灣",东森LIVE
+#EXTINF:-1 tvg-name="东森LIVE" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="台灣",东森LIVE
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dsxw.flv
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.cn/tv/东森新闻台.png" group-title="台灣",东森新闻台
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="台灣",东森新闻台
 http://api.mytv666.top/api/hk.php?id=3034663439313837653865616166346561376139613235333434396531666564267469643d74762669643d3530
-#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.cn/tv/东森财经新闻台.png" group-title="台灣",东森财经新闻台
+#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="台灣",东森财经新闻台
 http://api.mytv666.top/api/hk.php?id=3234393438633333356332626430653464356635333236346565626161316431267469643d74762669643d3531
 #EXTINF:-1 tvg-id="369189" tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="台灣",东森超视
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-id="369240" tvg-name="非凡新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique1.png" group-title="台灣",非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻台.png" group-title="台灣",TVBS新闻台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbsxwt.flv
-#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://live.fanmingming.cn/tv/TVBS HD.png" group-title="台灣",TVBS HD
-http://api.mytv666.top/api/hk.php?id=6338353765393031313964363830396232336564343339356139653361633532267469643d74762669643d3635
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
