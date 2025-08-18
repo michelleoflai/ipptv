@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz"
 #EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml"
 
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達體育1台" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png",愛爾達體育1台
@@ -24,29 +23,29 @@ https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達體育3台" group-title="体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA6.png",愛爾達體育3台
 http://iptv543.com/smt.php?id=eltasport3_twn
 
-#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育4台"  group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育4台" group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
 http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport4_twn
-#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育4台"  group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育4台" group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
 https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
-#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育4台"  group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育4台" group-title="体育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",愛爾達體育4台
 http://api.mytv666.top/api/hk.php?id=3536613431373665346133366337643737336535653030616332383839376666267469643d74762669643d3836
 
-#EXTINF:-1 tvg-id="369288" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png",ELEVEN體育1
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 1" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png",ELEVEN體育1
 http://api.mytv666.top/api/hk.php?id=6538623163353532633730323639656261623566373466303666663231626464267469643d74762669643d3830
-#EXTINF:-1 tvg-id="369288" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png",ELEVEN體育1
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 1" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png",ELEVEN體育1
 http://api.mytv666.top/api/hk.php?id=3366366163306530383161323938613236396265353732323439646338386463267469643d77696e74763132332669643d3832
-#EXTINF:-1 tvg-id="369288" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png",ELEVEN體育1
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 1" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png",ELEVEN體育1
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-id="335106" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png",ELEVEN體育2
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2"  group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png",ELEVEN體育2
 http://api.mytv666.top/api/hk.php?id=3133333365353137306366656266346234663337626537306438613139366234267469643d77696e74763132332669643d3833
-#EXTINF:-1 tvg-id="335106" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png",ELEVEN體育2
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png",ELEVEN體育2
 http://api.mytv666.top/api/hk.php?id=3238313039396131333831376564343766643936376637643132333763656334267469643d74762669643d3831
-#EXTINF:-1 tvg-id="335106" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png",ELEVEN體育2
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png",ELEVEN體育2
 rtmp://f13h.mine.nu/sat/tv741
 
-#EXTINF:-1 tvg-id="369287" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png",纬来体育
+#EXTINF:-1 tvg-id="" tvg-name="纬来体育" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png",纬来体育
 https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-#EXTINF:-1 tvg-id="369287" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png",纬来体育
+#EXTINF:-1 tvg-id="" tvg-name="纬来体育" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
 
