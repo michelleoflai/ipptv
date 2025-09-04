@@ -201,6 +201,76 @@ http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctient
 
 
 
+==========欧美==============================
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://logo.catvod.com/BBC News.png" group-title="国际",BBC News
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://logo.catvod.com/BBC News.png" group-title="国际",BBC News
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 tvg-name="CNBC World" tvg-logo="https://logo.catvod.com/CNBC World.png" group-title="国际",CNBC World
+https://fl3.moveonjoy.com/CNBC_World/index.m3u8
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="国际",Fox News
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium347%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="国际",Fox News
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium347%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
+#EXTINF:-1 tvg-name="Euro Indie Music Chart TV" tvg-logo="https://logo.catvod.com/Euro Indie Music Chart TV.png" group-title="国际",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-name="Euro Indie Music Chart TV" tvg-logo="https://logo.catvod.com/Euro Indie Music Chart TV.png" group-title="国际",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://logo.catvod.com/Animal Planet.png" group-title="国际",Animal Planet
+http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://logo.catvod.com/Animal Planet.png" group-title="国际",Animal Planet
+http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://logo.catvod.com/Animal Planet.png" group-title="国际",Animal Planet
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium304%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://logo.catvod.com/BBC Earth.png" group-title="国际",BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://logo.catvod.com/BBC Earth.png" group-title="国际",BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://logo.catvod.com/CNN International.png" group-title="国际",CNN International
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://logo.catvod.com/CNN International.png" group-title="国际",CNN International
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://logo.catvod.com/Fashion TV.png" group-title="国际",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://logo.catvod.com/Fashion TV.png" group-title="国际",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://logo.catvod.com/Fashion TV.png" group-title="国际",Fashion TV
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium744%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
+#EXTINF:-1 tvg-name="MTV Hits" tvg-logo="https://logo.catvod.com/MTV Hits.png" group-title="国际",MTV Hits
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/153/index.m3u8
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="国际",MTV Live
+https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="国际",MTV Live
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
+#EXTINF:-1 tvg-name="MTV UK" tvg-logo="https://logo.catvod.com/MTV UK.png" group-title="国际",MTV UK
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium367%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
+#EXTINF:-1 tvg-name="MTV Classic" tvg-logo="https://logo.catvod.com/MTV Classic.png" group-title="国际",MTV Classic
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/142/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://logo.catvod.com/HBO Family.png" group-title="国际",HBO Family
+http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://logo.catvod.com/HBO Family.png" group-title="国际",HBO Family
+http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-name="HBO Zone" tvg-logo="https://logo.catvod.com/HBO Zone.png" group-title="国际",HBO Zone
+http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://logo.catvod.com/Paramount Network.png" group-title="国际",Paramount Network
+https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://logo.catvod.com/Paramount Network.png" group-title="国际",Paramount Network
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium334%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
+#EXTINF:-1 tvg-name="Showtime Next" tvg-logo="https://logo.catvod.com/Showtime Next.png" group-title="国际",Showtime Next
+https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-name="Showtime Extreme" tvg-logo="https://logo.catvod.com/Showtime Extreme.png" group-title="国际",Showtime Extreme
+http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://logo.catvod.com/ESPN 2.png" group-title="国际",ESPN 2
+http://fl1.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-name="NBA TV USA" tvg-logo="https://logo.catvod.com/NBA TV USA.png" group-title="国际",NBA TV USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium404%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://logo.catvod.com/Discovery Channel.png" group-title="国际",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://logo.catvod.com/Discovery Channel.png" group-title="国际",Discovery Channel
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium313%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
+
+
+
 
 
 
