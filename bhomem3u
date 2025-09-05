@@ -33,18 +33,27 @@ http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN U" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="体育",ESPN U
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="体育", ESPN 2
-http://vocotv.pro:80/gast/gast/919#http://vocotv.pro:80/gast/gast/923
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="体育", ESPN 1
 https://stream1.freetv.fun/espn-1.ctv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="体育", ESPN 1
 https://7pal.short.gy/espnus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="体育", ESPN 2
+http://vocotv.pro:80/gast/gast/919#http://vocotv.pro:80/gast/gast/923
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="体育", ESPN 2
 http://fl1.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="体育", ESPN 2
 https://stream1.freetv.fun/espn-2.ctv
 #EXTINF:-1 tvg-id="espn-news-us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espnews-us.png" group-title="体育",ESPN NEWS
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis" tvg-id="408617" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032247367159_67.jpg" group-title="体育" epg-url="https://epg.pw/api/epg.xml?channel_id=408617",tennis Channel [US]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GolfChannel.us@SD" group-title="体育",Golf Channel
+https://fl3.moveonjoy.com/GOLF/index.m3u8
+
+#EXTINF:-1 tvg-id="YES_NETWORK" group-title="体育",YES_NETWORK
+https://fl3.moveonjoy.com/YES_NETWORK/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="espn-news-us" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" group-title="体育",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -74,17 +83,11 @@ http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosisport1_twn
 #EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png",博斯运动2
 http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosisport2_twn
 
-#EXTINF:-1 group-title="体育",劲爆体育
-http://111.8.242.104:4085/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="体育",劲爆体育
-http://119.32.12.17:2901/udp/224.1.100.129:11111 
-#EXTINF:-1 group-title="体育",IHOT体育
-http://www.qiqi.pub:18889/rtp/239.93.42.19:5140
-
-
 #EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TSL.png",智林体育
 
 
+#EXTINF:-1 tvg-id="FoxSports2.us@HD",Fox Sports 2 (720p)
+http://23.237.104.106:8080/USA_FS2/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports FOOTBALL" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Football.png" group-title="体育", Sky Sports Football
 https://7pal.short.gy/ssportsfb
@@ -111,10 +114,7 @@ https://7pal.short.gy/skyspt7nz
 
 
 
-#EXTINF:-1 tvg-name="Tennis" tvg-id="408617" tvg-country="美國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032247367159_67.jpg" group-title="体育" epg-url="https://epg.pw/api/epg.xml?channel_id=408617",tennis Channel [US]
-https://7pal.short.gy/tennisc
-#EXTINF:-1 tvg-name="Tennis" tvg-id="408617" tvg-country="美國" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032247367159_67.jpg" group-title="体育" epg-url="https://epg.pw/api/epg.xml?channel_id=408617",tennis Channel [US]
-https://stream1.freetv.fun/tennis-1.ctv
+
 
 #EXTINF:-1 group-title="体育",红牛TV
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
@@ -203,16 +203,58 @@ http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctient
 
 
 ==========欧美==============================
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://logo.catvod.com/BBC News.png" group-title="国际",BBC News
-http://125.227.210.55:8165/VideoInput/play.ts
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://logo.catvod.com/BBC News.png" group-title="国际",BBC News
-http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC World.png" group-title="国际",CNBC
+https://fl5.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC World.png" group-title="国际",CNBC
+https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+#EXTINF:-1 tvg-id="NBC.us",NBC
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 tvg-name="CNBC World" tvg-logo="https://logo.catvod.com/CNBC World.png" group-title="国际",CNBC World
 https://fl3.moveonjoy.com/CNBC_World/index.m3u8
+#EXTINF:-1 tvg-id="NBCLX.us",NBCLX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
+
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://logo.catvod.com/BBC News.png" group-title="国际",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://logo.catvod.com/BBC News.png" group-title="国际",BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://logo.catvod.com/BBC Earth.png" group-title="国际",BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://logo.catvod.com/BBC Earth.png" group-title="国际",BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://logo.catvod.com/CNN International.png" group-title="国际",CNN International
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://logo.catvod.com/CNN International.png" group-title="国际",CNN International
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://logo.catvod.com/CNN International.png" group-title="国际",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1 tvg-name="Fox News" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="国际",Fox News
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium347%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
+http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
 #EXTINF:-1 tvg-name="Fox News" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="国际",Fox News
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium347%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
+http://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" http-referrer="https://www.newslive.com/" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="国际",Fox News
+#EXTVLCOPT:http-referrer=https://www.newslive.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="国际",FOX Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+
+#EXTINF:-1 tvg-id="ChefChampion.us" group-title="国际",Chef Champion (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:-1 tvg-id="ChefRocShow.us" group-title="国际",Chef Roc Show (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD" group-title="国际",Disney XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="CARTOON_NETWORK" group-title="国际",CARTOON_NETWORK
+https://fl3.moveonjoy.com/CARTOON_NETWORK/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-name="Euro Indie Music Chart TV" tvg-logo="https://logo.catvod.com/Euro Indie Music Chart TV.png" group-title="国际",Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-name="Euro Indie Music Chart TV" tvg-logo="https://logo.catvod.com/Euro Indie Music Chart TV.png" group-title="国际",Euro Indie Music Chart TV
@@ -223,48 +265,6 @@ http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
 http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://logo.catvod.com/Animal Planet.png" group-title="国际",Animal Planet
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium304%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://logo.catvod.com/BBC Earth.png" group-title="国际",BBC Earth
-https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://logo.catvod.com/BBC Earth.png" group-title="国际",BBC Earth
-https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://logo.catvod.com/CNN International.png" group-title="国际",CNN International
-https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://logo.catvod.com/CNN International.png" group-title="国际",CNN International
-https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://logo.catvod.com/Fashion TV.png" group-title="国际",Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://logo.catvod.com/Fashion TV.png" group-title="国际",Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://logo.catvod.com/Fashion TV.png" group-title="国际",Fashion TV
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium744%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
-#EXTINF:-1 tvg-name="MTV Hits" tvg-logo="https://logo.catvod.com/MTV Hits.png" group-title="国际",MTV Hits
-http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/153/index.m3u8
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="国际",MTV Live
-https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="国际",MTV Live
-http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
-#EXTINF:-1 tvg-name="MTV UK" tvg-logo="https://logo.catvod.com/MTV UK.png" group-title="国际",MTV UK
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium367%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
-#EXTINF:-1 tvg-name="MTV Classic" tvg-logo="https://logo.catvod.com/MTV Classic.png" group-title="国际",MTV Classic
-http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/142/index.m3u8
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://logo.catvod.com/HBO Family.png" group-title="国际",HBO Family
-http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://logo.catvod.com/HBO Family.png" group-title="国际",HBO Family
-http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-name="HBO Zone" tvg-logo="https://logo.catvod.com/HBO Zone.png" group-title="国际",HBO Zone
-http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://logo.catvod.com/Paramount Network.png" group-title="国际",Paramount Network
-https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://logo.catvod.com/Paramount Network.png" group-title="国际",Paramount Network
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium334%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
-#EXTINF:-1 tvg-name="Showtime Next" tvg-logo="https://logo.catvod.com/Showtime Next.png" group-title="国际",Showtime Next
-https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-name="Showtime Extreme" tvg-logo="https://logo.catvod.com/Showtime Extreme.png" group-title="国际",Showtime Extreme
-http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://logo.catvod.com/ESPN 2.png" group-title="国际",ESPN 2
-http://fl1.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-name="NBA TV USA" tvg-logo="https://logo.catvod.com/NBA TV USA.png" group-title="国际",NBA TV USA
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium404%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://logo.catvod.com/Discovery Channel.png" group-title="国际",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://logo.catvod.com/Discovery Channel.png" group-title="国际",Discovery Channel
