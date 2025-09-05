@@ -204,11 +204,11 @@ http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctient
 
 
 ==========欧美==============================
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC World.png" group-title="国际",CNBC
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="国际",CNBC
 https://fl5.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC World.png" group-title="国际",CNBC
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="国际",CNBC
 https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
-#EXTINF:-1 tvg-name="CNBC World" tvg-logo="https://logo.catvod.com/CNBC World.png" group-title="国际",CNBC World
+#EXTINF:-1 tvg-name="CNBC World" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="国际",CNBC World
 https://fl3.moveonjoy.com/CNBC_World/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us" group-title="国际",NBC
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
@@ -216,11 +216,11 @@ https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
 
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://logo.catvod.com/BBC News.png" group-title="国际",BBC News
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://logo.catvod.com/BBC.png" group-title="国际",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://logo.catvod.com/BBC News.png" group-title="国际",BBC News
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://logo.catvod.com/BBC.png" group-title="国际",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us@East" group-title="国际",BBC America
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://logo.catvod.com/BBC America.png" group-title="国际",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://logo.catvod.com/BBC Earth.png" group-title="国际",BBC Earth
@@ -246,7 +246,7 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="国际",FOX Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 
-#EXTINF:-1 tvg-id="ChefChampion.us" group-title="国际",Chef Champion
+#EXTINF:-1 tvg-id="ChefChampion.us" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="国际",Chef Champion
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 #EXTINF:-1 tvg-id="ChefRocShow.us" group-title="国际",Chef Roc Show
 https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
