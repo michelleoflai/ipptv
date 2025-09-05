@@ -85,9 +85,9 @@ http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosisport2_twn
 
 #EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TSL.png",智林体育
 
-#EXTINF:-1 tvg-id="FoxSports2.us@HD" group-title="体育",Fox Sports 2 (720p)
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" group-title="体育",Fox Sports 1
 http://23.237.104.106:8080/USA_FS1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us@HD" group-title="体育",Fox Sports 2 (720p)
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" group-title="体育",Fox Sports 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports FOOTBALL" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Football.png" group-title="体育", Sky Sports Football
@@ -250,11 +250,24 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 #EXTINF:-1 tvg-id="ChefRocShow.us" group-title="国际",Chef Roc Show
 https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="国际",Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney XD" group-title="国际",Disney XD
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON_NETWORK" group-title="国际",CARTOON_NETWORK
 https://fl3.moveonjoy.com/CARTOON_NETWORK/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery usa" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="国际", Discovery
+https://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery family" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_family_us.png" group-title="国际", Discovery Family
+https://fl5.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Life" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_us.png" group-title="国际", Discovery Life
+https://fl5.moveonjoy.com/DISCOVERY_LIFE/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Sciense" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_family_us.png" group-title="国际", Discovery Sciense
+https://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FYI" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fyi_us.png" group-title="国际", FYI
+https://fl5.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1 tvg-name="Euro Indie Music Chart TV" tvg-logo="https://logo.catvod.com/Euro Indie Music Chart TV.png" group-title="国际",Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
@@ -452,7 +465,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=v
 
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/KBS1.png" group-title="韩国",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/KBS1.png" group-title="韩国",KBS 2TV
+#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/KBS2.png" group-title="韩国",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="韩国",SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
